@@ -1,0 +1,698 @@
+company,contact_first,contact_last,phone,city,state,industry,sec_makes,sec_models,sec_units,newest_year,sec_value,score,branch,distance_mi,contact
+Const Waste,Larry,Campbell,3177831500.0,Indianapolis,IN,EXCAVATION WORK,"Case, JLG, Link-Belt","Case CX-210-C, Case CX-250-C, Case CX-235-C-SR, Case CX-210-B, JLG G-12-55-A",42,2020,2850784,100,Indianapolis,3.8,Larry Campbell
+Virco Contr Inc,Raymond,Francis,3045432709.0,Charleston,WV,EXCAVATION WORK,"Case, Kobelco, Kubota, Sany","Kobelco ED-160, Case CX-37-C, Kubota SVL-75-2, Case CX-245-D-SR, Kubota SVL-97-2-HFC",13,2024,1842396,100,South Charleston,7.2,Raymond Francis
+K & N Contr Inc,Misty,Newhouse,3049659088.0,Elkview,WV,EXCAVATION WORK,"Case, Kobelco, Kubota","Kobelco 55-SRX, Kobelco SK-210-LC-9, Kubota U-55-5, Kubota KX-018-4, Case SL-50-TR",12,2025,1834106,100,South Charleston,7.2,Misty Newhouse
+Kyle J Sherman Exc LLC,Kyle,Sherman,4193924013.0,Perrysburg,OH,EXCAVATION WORK,"Kobelco, Kubota, Link-Belt","Link-Belt 160-X-3, Kubota SVL-75-2, Kubota SVL-75-2-W, Link-Belt 235-X-3, Link-Belt 145-X-3",10,2024,1614591,100,Dublin,41.7,Kyle Sherman
+Elect Gen Contr Inc,Timothy,Covell,7404203437.0,Circleville,OH,UTILITY CONSTRUCTION,"Kubota, Link-Belt, New Holland","Kubota U-35-4, New Holland B-95-B, Link-Belt 355-X-4-S",9,2022,915762,100,North Canton,5.4,Timothy Covell
+Daves Exc Inc,Gary,Masiongale,7656748188.0,Marion,IN,EXCAVATION WORK,"Case, Kubota, Link-Belt","Link-Belt 290-LX, Case CX-80-C, Case CX-210-D, Kubota SVL-95-2-S, Case CX-37-C",7,2023,701273,100,Fort Wayne,2.5,Gary Masiongale
+H & H Custom Homes LLC,Uriah,Hostetler,4199944070.0,Loudonville,OH,SINGLE FAMILY HOUSING CONSTRUCTION,"Case, Gradall, JLG, Kubota","JLG G-9-43-A, Gradall 534-D-9, Gradall G-6-42-P, Kubota SVL-95-2-S, Case nan",99,2019,507519,95,Gallipolis,33.5,Uriah Hostetler
+Pope Bros of Parkersburg LLC,Joseph,Pope,3048652230.0,Parkersburg,WV,SINGLE FAMILY HOUSING CONSTRUCTION,"Bomag, Case, Kubota","Bomag BW-211-D, Case 2050-M-XLT, Kubota KX-040-4, Bomag BW-177-D-5, Bomag nan",66,2017,577152,95,Marietta,62.2,Joseph Pope
+Aspen Bldrs Inc,Donnie,Adkins,3047634573.0,Daniels,WV,GOLF COURSE CONSTRUCTION,"Case, Kubota, Sany","Kubota KX-080-4, Kubota KX-057-4, Sany SY-155-U, Sany SY-80-U, Kubota SVL-97-2-HF",30,2024,1654384,95,South Charleston,55.1,Donnie Adkins
+Baumann Ent Ltd,Bradley,Baumann,2165181144.0,Garfield Heights,OH,WRECKING & DEMOLITION WORK,"Kobelco, Link-Belt, Sany","Kobelco SK-260-DLC-11, Sany SY-365-C, Link-Belt 210-X-3, Kobelco SK-210-LC-9, Kobelco SK-210-LC-10",20,2026,3343698,95,Brunswick,19.5,Bradley Baumann
+S M H Const Co,Sumith,Hapuarachy,3048776451.0,Bradley,WV,BRIDGE TUNNEL & ELEVATED HIGHWAY,"Case, Kubota","Kubota U-35-4, Case CX-210-D, Case CX-37-C, Case CX-220-E, Kubota SVL-753HFWVCC",15,2025,2036620,95,South Charleston,55.1,Sumith Hapuarachy
+S L A Inc,Steve,Adkins,3047368689.0,Barboursville,WV,EXCAVATION WORK,"Case, Kubota","Kubota SSV-65, Kubota KX-057-4, Kubota KX-080-4, Case 580-SUPER-N, Kubota KX-080-4-S",12,2020,570660,95,South Charleston,16.9,Steve Adkins
+Terry Fritch Const & Exc,Terry,Fritch,4192983471.0,Edgerton,OH,EXCAVATION WORK,"Case, Kubota","Case 850-G, Kubota SVL-95-2-S, Kubota KX-161-3, Case CX-210-B, Case 921-E",9,2021,836703,95,Dublin,41.7,Terry Fritch
+Paul Brown Concrete Inc,Paul,Brown,7402424342.0,Thornville,OH,CONCRETE AND ASPHALT WORK,"Kubota, New Holland","Kubota SVL-75-2, Kubota KX-040-4-R-3A, New Holland E-35, Kubota SVL-65-2",9,2024,504751,95,Dublin,6.0,Paul Brown
+C B Concrete LLC,Christa,Harrell,,Fishers,IN,CONCRETE AND ASPHALT WORK,"Kobelco, Kubota, New Holland","Kubota U-35-4, New Holland LS-170, Kobelco SK-60, Kubota SVL-65-2",9,2020,227243,95,Indianapolis,3.8,Christa Harrell
+Lexlil Contr LLC,Austin,Mort,5745942298.0,Pierceton,IN,HEAVY CONSTRUCTION NEC,"Kubota, New Holland","New Holland L-328, New Holland C-327, Kubota KX-057-5-R-3A, Kubota KX-040-4-R-3A, Kubota KX-040-4",9,2024,632235,95,Indianapolis,58.6,Austin Mort
+C & E Exc Inc,Ed,Bessinger,5742624346.0,Elkhart,IN,EXCAVATION WORK,"Case, Link-Belt","Link-Belt 245-X-4, Link-Belt 350-X-4, Case TV-620-B, Link-Belt 490-X-4",8,2025,2099037,95,Indianapolis,58.6,Ed Bessinger
+Ben Terlau Const LLC,Robert,Terlau,8596630599.0,Union,KY,SINGLE FAMILY HOUSING CONSTRUCTION,"Kobelco, Kubota","Kubota SVL-75-2, Kubota nan, Kubota U-35-4, Kubota R-640, Kubota KX-080-3",7,2022,862072,95,Monroe,24.6,Robert Terlau
+Raber Concrete LLC,James,Raber,5746423946.0,Syracuse,IN,CONCRETE AND ASPHALT WORK,"Kubota, New Holland","Kubota SVL-75-3HFWCC, Kubota SVL-75-2, New Holland C-227, Kubota U-55-5-R-3-AP, Kubota SVL-75-3-HWCC",7,2024,571618,95,Indianapolis,58.6,James Raber
+G Tech Const Svc LLC,Irv,Gianneschi,3176723275.0,Zionsville,IN,HIGHWAY AND STREET CONSTRUCTION,"Case, Kobelco, Kubota, Sany","Kubota SVL-95-2-S, Case 580-SUPER-L, Kobelco SK-170-LC-10, Sany SY-95-C, Case 621-F",7,2020,492616,95,Indianapolis,3.8,Irv Gianneschi
+Krafft Water Solutions LLC,Benjamin,Krafft,2605736593.0,Saint Joe,IN,WATER SEWER PIPELINE CONSTRUCTION,"Bomag, Kobelco, Kubota","Kubota SVL-95-2-S, Kubota KX-080-4-S, Kobelco SK-260-LC-10, Kobelco SK-350-LC-10, Kobelco SK-520-LC-11",6,2020,1151316,95,Fort Wayne,2.5,Benjamin Krafft
+Reed & Sons Const Inc,Shannon,Reed,8128249237.0,Bloomington,IN,EXCAVATION WORK,"Case, Link-Belt","Case CX-80-C, Case 621-F-XR, Case CX-365-E-SR, Link-Belt 145-X-3, Case CX-220-E",5,2023,1184843,95,Indianapolis,68.6,Shannon Reed
+Charles F Jergens Const Inc,Phillip,Jergens,9372333081.0,Dayton,OH,NONRESIDENTIAL CONSTRUCTION NEC,"Kobelco, Kubota, Link-Belt","Link-Belt 145-X-4, Kobelco SK-350-DLC-11, Kubota SVL-75-2-W, Kubota SVL-65-2",5,2025,1066626,95,Monroe,26.3,Phillip Jergens
+Robinson Trenching & Directional Boring Inc,Edward,Robinson,3178623929.0,Indianapolis,IN,UTILITY CONSTRUCTION,"Case, Kobelco, Kubota","Kubota SVL-90-2, Kobelco SK-140-SRLC-5, Kubota SVL-65-2, Kubota SVL-97-2, Case 580",5,2021,455650,95,Indianapolis,3.8,Edward Robinson
+WV Pipeline Acquisition Co,,,,Huntington,WV,WATER SEWER PIPELINE CONSTRUCTION,"Case, Kobelco, Kubota, New Holland","Kubota KX-057-4, Case 580-SUPER-M, Case 580-SUPER-N, Case 1835-B, Case CX-145-C-SR",2816,2019,2085616,90,Marietta,62.2,
+Collins Bldg & Contr Inc,,,,Cleveland,OH,NONRESIDENTIAL CONSTRUCTION NEC,"Case, Sany","Case 450, Sany SY-500-H",56,2022,805124,90,Brunswick,19.5,
+Primco Inc,Scott,Fredrick,2604781548.0,Fort Wayne,IN,BRIDGE TUNNEL & ELEVATED HIGHWAY,Case,"Case CX-145-D-SR, Case 650-M, Case SV-212, Case CX-17-C, Case CX-60-C",48,2020,1312173,90,Fort Wayne,73.8,Scott Fredrick
+Decorative Pavng Co,Kevin,Piers,5135761222.0,Loveland,OH,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota R-430, Kubota R-420-S, Kubota KX-080-5-R-3A, Kubota SVL-97-2-HCC, Kubota SVL-97-2-HFCC",17,2024,1178599,90,Monroe,24.6,Kevin Piers
+Northfork Const & Exc LLC,Robert,James,5133674865.0,Okeana,OH,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota nan, Kubota SVL-753HFWVCC, Kubota KX-040-4, Kubota SVL-65-2",15,2024,1042103,90,Monroe,24.6,Robert James
+D V M UTIL Inc,Daniel,Dilegge,5869790402.0,Sterling Heights,MI,UTILITY CONSTRUCTION,Link-Belt,"Link-Belt 145-X-4-DZ, Link-Belt 245-X-4, Link-Belt 145-X-4, Link-Belt 370-X-4-S, Link-Belt 235-X-3",15,2025,1360026,90,Novi,12.2,Daniel Dilegge
+R A S K & ASSC Inc,Jeffrey,Turner,3173352493.0,Mccordsville,IN,EXCAVATION WORK,Case,"Case TR-270-B, Case 621-D, Case 621-F",15,2023,1291634,90,Indianapolis,3.8,Jeffrey Turner
+Oval Const Mgmt LLC,James,Carney Jr,3043478820.0,Charleston,WV,CONTRACTORS GENERAL NEC,"Case, Kubota","Case TR-310, Kubota KX-040-4, Kubota KX-057-4, Kubota SVL-75-2, Kubota U-55-5-R-3-A",13,2025,1019630,90,South Charleston,7.2,James Carney Jr
+Kermit Tyree Contr Inc,Debbie,Nichols,3049656197.0,Elkview,WV,OIL FIELD CONSTRUCTION,"Case, Kubota","Kubota KX-040-4, Kubota SVL-75-2, Case SV-208",12,2021,976420,90,South Charleston,7.2,Debbie Nichols
+A C Elec Inc,John,Boller,3177457275.0,Danville,IN,ELECTRICAL WORK,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-97-2, Kubota SVL-95-2-S, Kubota K-008-3",12,2023,574437,90,Indianapolis,3.8,John Boller
+Branditz Ent LLC,Kevin,Branditz,5135194009.0,Okeana,OH,EXCAVATION WORK,Kubota,"Kubota SVL-97-2-HCC, Kubota SVL-97-2, Kubota SVL-95-2-S, Kubota SVL-90-2, Kubota KX-057-5-R-3",12,2024,959369,90,Monroe,24.6,Kevin Branditz
+Siler Exc Svc LLC,Ruth,Siler,5137180475.0,Amelia,OH,EXCAVATION WORK,Kubota,"Kubota SVL-97-2, Kubota SVL-97-2-HC, Kubota SVL-75-2, Kubota SVL-753HFWVCC, Kubota SVL-97-3-HCC",12,2025,776835,90,Monroe,24.6,Ruth Siler
+Wabash UTIL Inc,Tony,Heinz,8128861250.0,Vincennes,IN,UTILITY CONSTRUCTION,Case,"Case SV-212, Case CX-210-C, Case CX-350-C, Case CX-210-D, Case 621-G",11,2025,1283375,90,Indianapolis,26.0,Tony Heinz
+In Earth Inc,Mark,Osler,5746746488.0,Osceola,IN,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-95-2-S, Kubota SVL-97-2-HFCC",11,2024,615435,90,Indianapolis,58.6,Mark Osler
+Fed Exc Inc,Joel,Lehmkuhl Jr,9373726346.0,Xenia,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-040-4-R-3A, Kubota SVL-97-2, Kubota KX-080-4, Kubota R-640-R-43",11,2024,914032,90,Monroe,26.3,Joel Lehmkuhl Jr
+B & B Wrecking & Exc Inc,Pete,Boyas,2164291700.0,Cleveland,OH,WRECKING & DEMOLITION WORK,"Kobelco, Sany","Kobelco SK-500-LC-10, Kobelco SK-140-SRLC-3, Kobelco SK-300-LC-10, Kobelco SK-350-LC-10, Sany SY-50-U",11,2025,2614976,90,Brunswick,19.5,Pete Boyas
+Delta Concrete & Indl Contr Inc,Robert,Grucz,5865981390.0,Chesterfield,MI,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2, Kubota nan, Kubota KX-057-5",10,2023,625189,90,Novi,27.3,Robert Grucz
+Alliance Crane & Rigging Inc,Kurt,Klingelhofer,3305392564.0,Louisville,OH,STRUCTURAL STEEL ERECTION,"JLG, Kubota","Kubota SVL-97-2, Kubota KX-057-5, Kubota SVL-95-2-S, Kubota KX-080-4, Kubota KX-057-4",10,2026,1046854,90,Brilliant,21.9,Kurt Klingelhofer
+OH Gig LLC,Hunter,Dett,4409744033.0,Mentor,OH,UTILITY CONSTRUCTION,Kubota,"Kubota U-35-4, Kubota SVL-75-2, Kubota KX-040-4, Kubota K-008-3, Kubota U-17",10,2023,546213,90,Brunswick,19.5,Hunter Dett
+Advanced Demo Svc LLC,,,,Mc Comb,OH,WRECKING & DEMOLITION WORK,"Kobelco, Kubota","Kobelco SK-350-LC-10, Kobelco SK-260-LC, Kobelco SK-350-LC-11, Kubota SVL-75-2, Kobelco SK-210-LC-9",10,2024,1831829,90,Cambridge,22.3,
+Frady Exc & Trans LLC,Albert,Frady,3174674972.0,Greenfield,IN,EXCAVATION WORK,Kubota,"Kubota KX-057-5, Kubota SVL-97-2-HFCC, Kubota SSV-75, Kubota KX-080-4-S, Kubota KX-057-5-R-3A",9,2024,543042,90,Indianapolis,3.8,Albert Frady
+Virco Inc,Raymond,Francis,6812058151.0,Charleston,WV,HEAVY CONSTRUCTION NEC,Case,"Case CX-57-C, Case TV-450-B, Case 651-G, Case CX-80-C, Case CX-145-D-SR",9,2024,2179528,90,South Charleston,7.2,Raymond Francis
+Solid Rock Exc LLC,Michael,Kurtz,8593935869.0,Burlington,KY,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2-HCC, Kubota SVL-75-2, Kubota SVL-97-2, Kubota SVL-97-3-HFCC",9,2025,684513,90,Monroe,24.6,Michael Kurtz
+Old Skool Const LLC,Michael,Young,,Pataskala,OH,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota SVL-75-2, Kubota SVL-97-2, Kubota SVL-90-2, Kubota KX-057-4, Kubota SVL-95-2-S",9,2024,665480,90,Dublin,6.0,Michael Young
+A & B Boring Inc,,,2604100811.0,Huntington,IN,UTILITY CONSTRUCTION,"Case, Kobelco, Kubota","Case CX-57-C, Case 580-L, Kubota KX-057-4, Kobelco SK-135-SRLC",9,2019,355044,90,Fort Wayne,2.5,
+Northcoast Cement Contr Inc,Gino,Sorgi,3307692573.0,Homerville,OH,CONCRETE AND ASPHALT WORK,"Kubota, New Holland","Kubota KX-057-5-R3AP, Kubota SVL-75-2, New Holland C-232, Kubota SVL-75, Kubota SVL-75-3-HWCC",8,2025,489006,90,North Canton,43.4,Gino Sorgi
+Raze Intl Inc,Betty,Nutting,7406710077.0,Shadyside,OH,WRECKING & DEMOLITION WORK,"Kobelco, Link-Belt","Link-Belt 300-X-4, Kobelco SK-210, Kobelco SK-350-LC-9-E, Kobelco SK-350-LC, Link-Belt 210-X-4",8,2023,1395467,90,Mansfield,17.9,Betty Nutting
+J RS Snow Removal & Const LLC,Donald,Weekley,3049842282.0,Charleston,WV,SNOW PLOWING REMOVAL,"Kubota, New Holland","New Holland B-75-D, New Holland E-60-C, Kubota U-48-5-R-3-A, Kubota U-55-4, New Holland C-345",8,2024,658221,90,South Charleston,7.2,Donald Weekley
+K & K Earthmoving Inc,,,5743899001.0,Bristol,IN,EXCAVATION WORK,Kubota,"Kubota KX-080-4-S-2, Kubota U-55-5, Kubota SVL-75-3HFWCC, Kubota R-640, Kubota SVL-97-2",8,2024,547672,90,Indianapolis,58.6,
+K T Supply Ltd,,,5138460257.0,Lebanon,OH,EXCAVATION WORK,Link-Belt,"Link-Belt 245-X-4, Link-Belt 80-X-3, Link-Belt 355-X-4-S, Link-Belt 145-X-4",8,2023,1858823,90,Monroe,24.6,
+A N J Const LLC,Alvin,Miller,,New Haven,IN,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-75-3-HWCC, Kubota SVL-75-3HFWCC, Kubota SVL-65-2, Kubota U-48-5",8,2024,656632,90,Fort Wayne,2.5,Alvin Miller
+J C B Design & Build LLC,Jason,Bryan,2487925368.0,Mount Clemens,MI,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-27-4, Kubota U-27-4-R-1, Kubota SVL-65-2, Kubota SVL-97-2, Kubota SVL-75-2",8,2024,520174,90,Novi,27.3,Jason Bryan
+Jimmy A DUNN Exc Co,Kimberly,Hoffman,3049843246.0,Charleston,WV,EXCAVATION WORK,Kubota,"Kubota KX-040-4, Kubota KX-080-4S2R3A, Kubota KX-080-4, Kubota SVL-75-2, Kubota SVL-65-2",7,2024,500373,90,South Charleston,7.2,Kimberly Hoffman
+J B F Ontario LLC,James,Henry,4195280065.0,Ontario,OH,EXCAVATION WORK,New Holland,"New Holland C-234, New Holland C-232, New Holland E-37-C, New Holland L-228, New Holland C-345",7,2021,502220,90,Heath,2.4,James Henry
+Dyson Ent LLC,Isaac,Dyson,,Marion,IN,HEAVY CONSTRUCTION NEC,"Kubota, Sany","Sany SY-35-U, Kubota SVL-65-2",7,2021,312098,90,Fort Wayne,2.5,Isaac Dyson
+M C D Concrete Ent LLC,Christian,McDaniel,8594418588.0,Erlanger,KY,CONCRETE AND ASPHALT WORK,"Kubota, Sany","Sany SY-60-C, Sany SY-80-U, Kubota KX-057-4",7,2022,474213,90,Monroe,24.6,Christian McDaniel
+Ground Control Exc Inc,Scott,Normington,8124315969.0,Chandler,IN,EXCAVATION WORK,"Case, Kobelco","Case TR-310, Case CX-350-C, Case CX-80-C, Case TR-270, Case CX-50-B",7,2018,683052,90,Evansville,5.2,Scott Normington
+C & J Demo,Craig,Crawford,2163915700.0,Cleveland,OH,WRECKING & DEMOLITION WORK,"Kobelco, Sany","Kobelco SK-210-LC-10, Sany SY-60-C, Kobelco SK-260-LC-10, Kobelco SK-350-LC, Kobelco SK-85-CS-7",6,2023,1590563,90,Brunswick,19.5,Craig Crawford
+Wolfenbarger & Sons Concrete,Jackie,Wolfenbarger Jr,2566832111.0,Temperance,MI,CONCRETE AND ASPHALT WORK,"Kubota, New Holland","New Holland C-232, Kubota U-48-5, Kubota SVL-75-2, Kubota KX-033-4",6,2021,381567,90,Novi,24.2,Jackie Wolfenbarger Jr
+In Reclamation & Exc Inc,Jennifer,Phillippi,3179263770.0,Indianapolis,IN,CONCRETE AND ASPHALT WORK,"Kubota, Sany","Kubota KX-057-4, Sany SY-50-U, Kubota KX-080-4, Kubota KX-057-5-R-3, Sany SY-35-U",6,2023,425097,90,Indianapolis,3.8,Jennifer Phillippi
+L & S Undrgrnd Inc,Brenda,Shively,3174674563.0,Greenfield,IN,UTILITY CONSTRUCTION,Case,"Case CX-80-C, Case DL-550, Case 321-F, Case SR-210, Case CX-60-C",6,2023,594394,90,Indianapolis,3.8,Brenda Shively
+WV Demo Inc,Jason,Pickens,3043424004.0,Charleston,WV,WRECKING & DEMOLITION WORK,"Case, Kubota","Case CX-210-D, Kubota U-10-5, Case TR-270, Case CX-160-D, Case 850-M-WT",6,2022,664405,90,South Charleston,7.2,Jason Pickens
+T & S Exc LLC,Shawn,Spaulding,3175392172.0,Danville,IN,EXCAVATION WORK,Kubota,"Kubota U-55-4, Kubota SVL-75-2, Kubota KX-080-5-R-3A, Kubota SVL-753HFWVCC, Kubota U-55-5",6,2024,549430,90,Indianapolis,3.8,Shawn Spaulding
+Siniard Concrete Svc Inc,M,Siniard,8128763614.0,Bloomington,IN,CONCRETE AND ASPHALT WORK,"Case, Kubota","Case TR-310-B, Kubota KX-040-4, Kubota KX-057-4, Case CX-57-C, Case TR-310",6,2024,437235,90,Indianapolis,68.6,M Siniard
+UTIL Contr Inc,David,Chepke,3307936525.0,Youngstown,OH,UTILITY CONSTRUCTION,Kobelco,"Kobelco SK-85-CS, Kobelco SK-170-LC-10, Kobelco SK-85-CS-7, Kobelco SK-230-SRLC-5",5,2024,829642,90,Monroe,24.6,David Chepke
+Eye Will DVLP Inc,William,Dawson,4406399770.0,Painesville,OH,SINGLE FAMILY HOUSING CONSTRUCTION,"Kobelco, Kubota","Kobelco SK-210-LC-10, Kobelco SK-140-SRLC-7, Kubota U-55-4, Kubota SVL-95-2-S",5,2019,647570,90,Brunswick,19.5,William Dawson
+C & K Backhoe & Bobcat Svc Inc,Kyle,Beach,8594281921.0,Glencoe,KY,EXCAVATION WORK,"Kubota, Link-Belt","Link-Belt 145-X-3, Kubota SVL-95-2-SHFC, Link-Belt 145-X-3-DZ, Kubota SVL-95-2-S",5,2020,375420,90,Monroe,24.6,Kyle Beach
+Quality Concrete & Exc Inc,Tracy,Abfall,3306482706.0,Spencer,OH,EXCAVATION WORK,"Kubota, New Holland","Kubota SVL-65-2, Kubota U-35-4, New Holland L-220, Kubota KX-040-4",5,2022,362164,90,North Canton,43.4,Tracy Abfall
+Hardcore Const Inc,Rick,Miller,8123421522.0,Columbus,IN,WATER SEWER PIPELINE CONSTRUCTION,"Kubota, Link-Belt, Sany","Kubota U-55-4, Sany SY-135-C, Kubota SVL-75-2, Link-Belt 3400-Q",5,2022,396884,90,Indianapolis,41.6,Rick Miller
+Tribute Contr & Cnslt LLC,Tommy,Enyart,7404511010.0,South Point,OH,HEAVY CONSTRUCTION NEC,"JLG, Kubota","Kubota SVL-97-2, JLG 1055",5,2021,268769,90,Brilliant,9.4,Tommy Enyart
+Ambrose Const Inc,Matt,Ambrose,8127685600.0,Haubstadt,IN,CONCRETE AND ASPHALT WORK,"Case, Kobelco","Kobelco SK-210-LC, Case 590-SUPER-N",4,2025,584891,90,Evansville,5.2,Matt Ambrose
+Damian Kovarik Exc & Hauling LLC,Damian,Kovarik,7409461165.0,Jewett,OH,EXCAVATION WORK,"Bomag, Kubota, Link-Belt","Bomag BW-138-AD, Link-Belt 80-X-3, Kubota SVL-97-2-HC",3,2023,255765,90,Mansfield,17.9,Damian Kovarik
+Union Cnty Engr,Eric,Phillips,9376453018.0,Marysville,OH,LOCAL GOVERNMENT,"Case, Kobelco","Kobelco SK-260-LC-10, Case 721-G, Kobelco SK-300-LC-10",3,2025,943638,90,Dublin,6.0,Eric Phillips
+Turner Legacy Farms LLC,Daniel,Turner,,Greenfield,IN,GENERAL FARMS PRIMARILY CROP,Case,"Case 221-F, Case 575-N-EP",159,2025,2205479,85,Indianapolis,3.8,Daniel Turner
+Rntl Stop OH Ltd,Jeff,Loudermilk,7409658822.0,Sunbury,OH,RENTAL AND LEASING CO,"Case, JLG, Kubota","Kubota KX-033-4, Kubota SVL-65-2, Case CX-130-D, JLG nan, Kubota SVL-65-2-HFWC",35,2025,1879611,85,Dublin,6.0,Jeff Loudermilk
+K R EQT Co,,,,Ashtabula,OH,EQUIPMENT SALES,"Link-Belt, New Holland, Sany","Link-Belt 370-LX, Sany SY-225-C, New Holland C-345, Sany SY-155-U, New Holland L-318",19,2023,1946274,85,Brunswick,19.5,
+Just Junk It Inc,,,7404552274.0,Zanesville,OH,RECYCLING NEC,"Kobelco, Kubota, Link-Belt","Link-Belt 250-X-4, Link-Belt 240-LX, Kubota SVL-75-2, Kubota SVL-75, Link-Belt 220-X-4-S",19,2022,1606662,85,Brunswick,19.5,
+V L D Grdng Inc,Valerio,Dalicandro,7088653333.0,Pataskala,OH,CONTRACTORS GENERAL NEC,Kubota,"Kubota SVL-90-2, Kubota SVL-75-3-HWCC, Kubota SVL-95-2-S, Kubota SVL-75-2, Kubota SVL-97-2",17,2024,1356186,85,Dublin,6.0,Valerio Dalicandro
+Bayliss & Ramey Inc,John,Bayliss,3049373900.0,Fraziers Bottom,WV,ELECTRICAL WORK,"Case, Kubota","Kubota SSV-65, Case TR-270, Kubota KX-040-4",16,2017,445359,85,South Charleston,7.2,John Bayliss
+Kremer Plbg Svc LLC,,,8597435199.0,Alexandria,KY,PLUMBING HEATING AIR CONDITIONING,"Kubota, Sany","Sany SY-26-U, Sany SY-80-U, Sany SY-16-C, Kubota KX-018-4, Kubota SVL-97-2-HFC",13,2024,470785,85,Monroe,24.6,
+Eco Care LLC,Jason,Zamora,2342444412.0,Cortland,OH,LANDSCAPING CONTRACTORS,"Kubota, New Holland","New Holland C-345, Kubota SVL-97-2-HFCC",12,2024,677064,85,North Canton,16.7,Jason Zamora
+Tony McQuaid Contr LLC,Anthony,McQuaid,7408865540.0,Chesapeake,OH,EXCAVATION WORK,"Case, Kobelco","Kobelco 235-SR, Case CX-60-C, Kobelco SK-235-SRLC-2, Kobelco 235-SRLC",11,2017,417085,85,Brilliant,9.4,Anthony McQuaid
+Foill Inc,Margaret,Foill,7409471117.0,Waverly,OH,EXCAVATION WORK,Kubota,"Kubota SVL-97-2, Kubota SVL-90-2, Kubota SVL-97-3-HFCC, Kubota SVL-753HFWVCC, Kubota KX-040-4-R-3T",10,2025,279580,85,Brilliant,9.4,Margaret Foill
+MI SANY LLC,Lenny,Sims,,Chelsea,MI,GENERAL FARMS PRIMARILY CROP,Sany,"Sany SY-365-C, Sany SY-80-U",10,2023,955045,85,Novi,24.2,Lenny Sims
+Jamison Well Drilling Inc,Dennis,Golden,4195248560.0,Mansfield,OH,WATER WELL DRILLING,Kubota,"Kubota SVL-95-2-S, Kubota U-55-5, Kubota U-55-5-R-3-AP, Kubota KX-040-4, Kubota SVL-97-2-HFCC",9,2025,581650,85,Heath,2.4,Dennis Golden
+Midland Post Frame Bldgs LLC,Brian,Whiteley,3177108797.0,Danville,IN,NONRESIDENTIAL CONSTRUCTION NEC,"Case, Kubota","Case 550-G, Case SV-250, Case 580-SUPER-N, Kubota SVL-97-3-HCC, Kubota SVL-95-2-S",9,2025,427331,85,Indianapolis,3.8,Brian Whiteley
+Nobull Energy LLC,,,,Carmel,IN,ELECTRICAL WORK,Kubota,"Kubota SVL-97-2-HFCC, Kubota SVL-97-2-HFC, Kubota KX-080, Kubota SVL-97-2-HCC",9,2024,428171,85,Indianapolis,3.8,
+Gordon Reeves Const,Reeves,Gordon,3178925193.0,Brownsburg,IN,WATER SEWER PIPELINE CONSTRUCTION,Case,"Case TV-370-B, Case CX-80, Case CX-330, Case CX-60-C, Case 1650-M-XLT",8,2024,817931,85,Indianapolis,3.8,Reeves Gordon
+Fritcha Const Co,William,Fritcha,2607492550.0,New Haven,IN,WATER SEWER PIPELINE CONSTRUCTION,Case,"Case 850-M, Case TR-270, Case TR-270-B, Case CX-220-E, Case TV-450-B",8,2024,1145442,85,Fort Wayne,2.5,William Fritcha
+Sextons Exc,Shawn,Sexton,7402867641.0,Jackson,OH,EXCAVATION WORK,Kubota,"Kubota KX-057-4, Kubota SVL-75-2, Kubota KX-057-5",8,2022,475141,85,Brilliant,9.4,Shawn Sexton
+McAtee Exc,Steven,McAtee,7656746784.0,Marion,IN,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota U-55-4, Kubota U-35-4, Kubota KX-040-4",8,2021,463517,85,Fort Wayne,2.5,Steven McAtee
+K K & E Ent Inc,Carl,Krueger,4195882431.0,Berlin Heights,OH,GENERAL FARMS PRIMARILY CROP,"Case, New Holland","Case TR-320, New Holland C-345, Case TR-340, New Holland C-334, New Holland C-234",8,2023,410868,85,Gallipolis,33.5,Carl Krueger
+Summit City Lndscp Supply Inc,Ronald,Bjustrom,2604160325.0,Fort Wayne,IN,RETAIL NURSERIES & GARDEN STORES,"Case, Kubota, New Holland","Kubota R-630, Kubota R-640, Case TR-270-B, New Holland W-80-C, Kubota R-540-R-43",8,2023,611063,85,Fort Wayne,73.8,Ronald Bjustrom
+Milenium Inc,Samuel,Herman,7345896670.0,Wayne,MI,DRILLING NEC,Kubota,"Kubota U-35-4, Kubota SVL-75-2, Kubota U-27-4-R-1",8,2023,625613,85,Novi,24.2,Samuel Herman
+Plum Creek Bldrs,Daniel,Hostetler,4196514691.0,Loudonville,OH,NONRESIDENTIAL CONSTRUCTION NEC,"JLG, Kubota","JLG G-6-42-A, Kubota SVL-75-2, Kubota SSV-65",8,2020,212201,85,Gallipolis,33.5,Daniel Hostetler
+Bayers Plbg Inc,Maria,Bayer,8122975484.0,Newburgh,IN,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SSV-75, Kubota KX-040-4, Kubota KX-040-4-R-3A, Kubota U-10-5",7,2024,532405,85,Evansville,5.2,Maria Bayer
+Ross Const Co,Michael,Ross,5132329288.0,Cincinnati,OH,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota KX-057-4, Kubota SVL-75-2",7,2020,406867,85,Monroe,24.6,Michael Ross
+Davidson Exc Inc,Jeffrey,Davidson,7658838800.0,Russiaville,IN,EXCAVATION WORK,Kubota,"Kubota U-45, Kubota SVL-95-2-S, Kubota SVL-90-2, Kubota U-55-5",7,2021,346644,85,Fort Wayne,2.5,Jeffrey Davidson
+Pauls Concrete & Bobcat Svc Inc,Jeffrey,Paul,3178371688.0,Avon,IN,CONCRETE AND ASPHALT WORK,Case,"Case SV-185, Case TR-270-B, Case SV-280-B",7,2024,440280,85,Indianapolis,3.8,Jeffrey Paul
+Madison Cnty,Steffanie,Owens,7656419474.0,Anderson,IN,LOCAL GOVERNMENT,Case,"Case MINOTAURDL550, Case 695-SV, Case SV-280, Case 321-F",7,2025,392323,85,Indianapolis,3.8,Steffanie Owens
+Anchor Drilling Fluids USA LLC,Maple,Shea,7404920190.0,Newcomerstown,OH,OIL AND GAS FIELD SERVICES NEC,Link-Belt,"Link-Belt 145-X-4, Link-Belt 145-X-4-DZ",7,2023,1237549,85,Brunswick,17.9,Maple Shea
+Pure Green LLC,Chad,Fuller,,Crittenden,KY,LANDSCAPING CONTRACTORS,"Kubota, Sany","Kubota SVL-75-2, Sany SY-16-C, Sany SY-60-U, Kubota SVL-97-2, Kubota SVL-65-2",7,2023,520829,85,Monroe,24.6,Chad Fuller
+K M U Trking & Exc LLC,Loire,Urig,4409341008.0,Avon,OH,EXCAVATION WORK,Kubota,"Kubota U-35-4-R-3, Kubota SVL-75-3-HWCC, Kubota U-55-5, Kubota SVL-75-2",6,2023,489125,85,Brunswick,19.5,Loire Urig
+Keith Sullivan Exc Inc,Keith,Sullivan,7656641145.0,Marion,IN,EXCAVATION WORK,Case,"Case SV-280-B, Case 580-SUPER-N, Case 850-M",6,2025,459348,85,Fort Wayne,2.5,Keith Sullivan
+Modern Day Concrete Const Inc,Tom,Wiesman,5137381026.0,Harrison,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SSV-75",6,2022,407624,85,Monroe,24.6,Tom Wiesman
+Clemson Towing Inc,Mark,Clemson,4402864757.0,Chardon,OH,TOWING SERVICES,"Case, Kubota, New Holland","New Holland C-234, Kubota R-630, Kubota SVL-90-2, Case CX-145-D-SR, Kubota SVL-95-2-S",6,2020,500262,85,Brunswick,19.5,Mark Clemson
+Allied Concrete Workers Inc,Buddy,Nenedjian,,Martinsville,IN,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-040-4, Kubota SVL-75-3-HWCC, Kubota U-55-4",6,2024,367574,85,Indianapolis,3.8,Buddy Nenedjian
+Ent ASPH Pavng Inc,Roy,Kniesteadt,7344975891.0,Ann Arbor,MI,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota KX-040-4, Kubota SSV-75, Kubota KX-080-4-S-2, Kubota SSV-65, Kubota SVL-753HFWVCC",6,2023,456751,85,Novi,24.2,Roy Kniesteadt
+Sell & Sons Exc LLC,Fred,Sell,,Salem,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-4, Kubota KX-057-4, Kubota SVL-97-2, Kubota KX-057-5",6,2021,375266,85,North Canton,16.7,Fred Sell
+Right on Exc LLC,Shane,Roe,9374930756.0,Sidney,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-057-4, Kubota SVL-97-2-HFCC",6,2024,284292,85,Monroe,26.3,Shane Roe
+Parsetich Custom Homes LLC,James,Parsetich,3174913434.0,Greenwood,IN,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota SVL-97-2-HFC, Kubota U-35-4, Kubota SVL-95-2-S, Kubota U-55-5-R-3-AP",6,2024,332234,85,Indianapolis,3.8,James Parsetich
+Chamberlin Contr LLC,Jacob,Chamberlin,,Alexandria,KY,UTILITY CONSTRUCTION,Kubota,"Kubota SVL-75-2, Kubota SVL-75-3HFWVC, Kubota KX-057-5-R3AP, Kubota KX-71-3-S-4, Kubota SSV-75",6,2025,421516,85,Monroe,24.6,Jacob Chamberlin
+J Clayton Exc Inc,Clayton,Jock,7409272110.0,Pataskala,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-75-3-HWCC, Kubota KX-057-4, Kubota SVL-90-2",5,2023,353832,85,Dublin,6.0,Clayton Jock
+Scott Ent Const Inc,Mathew,Scott,5138410288.0,Cincinnati,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-4-S, Kubota KX-057-4, Kubota SVL-75-2",5,2020,352576,85,Monroe,24.6,Mathew Scott
+Irvin Alan Exc Inc,Kenneth,Brensaugh,5133987937.0,Maineville,OH,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-97-2, Kubota SVL-95-2-S",5,2021,306718,85,Monroe,24.6,Kenneth Brensaugh
+North Ridge Exc & Const,David,Beach,4404170837.0,Madison,OH,EXCAVATION WORK,Kubota,"Kubota KX-033-4, Kubota SVL-65-2-HWC, Kubota SVL-75-2, Kubota KX-080-4, Kubota KX-057-5",5,2024,372899,85,Brunswick,19.5,David Beach
+Brian Dulaney Exc LLC,Brian,Dulaney,,Jackson,OH,EXCAVATION WORK,Kubota,"Kubota KX-057-5-R3AP, Kubota SVL-97-2, Kubota SVL-65-2, Kubota KX-040-4, Kubota U-55-4",5,2024,417210,85,Brilliant,9.4,Brian Dulaney
+P & C Indl Svc LLC,Patrick,Burpham,3304241870.0,Lisbon,OH,SPECIAL TRADE CONTRACTORS NEC,"Kubota, Link-Belt","Link-Belt 145-X-3, Kubota R-630, Kubota SVL-95-2-S, Kubota KX-057-4, Kubota SVL753HFWVRCC",5,2025,289375,85,North Canton,16.7,Patrick Burpham
+Banks Const & Exc,Bradley,Banks,9377641188.0,Hillsboro,OH,EXCAVATION WORK,Kubota,"Kubota SVL-97-2-HFCC, Kubota SVL-95-2-S, Kubota U-55-4, Kubota U-55-5-R-3-A",5,2024,371364,85,Monroe,24.6,Bradley Banks
+Blair Exc,Erin,Blair,5139009810.0,Maineville,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-040-4, Kubota SVL-97-2-HFCC, Kubota SVL-97-2",5,2024,390671,85,Monroe,24.6,Erin Blair
+Grade A Exc & Gen Svc LLC,Michael,Kentner,4196576929.0,Wapakoneta,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2, Kubota KX-057-4",5,2022,359297,85,Cambridge,22.3,Michael Kentner
+J & D Trim Works LLC,Jacob,Knepp,8124863470.0,Montgomery,IN,CASH GRAINS NEC,"Case, Kubota","Case SR-175-B, Case TR-310-B, Case SR-175, Kubota U-55-5",5,2024,284016,85,Indianapolis,26.0,Jacob Knepp
+Mtn Haus Prop Inc,Michael,Jarrett,3043462108.0,Charleston,WV,NONRESIDENTIAL CONSTRUCTION NEC,"Case, Kubota","Case TV-370, Kubota KX-040-4, Kubota KX-040-4-R-3T",5,2024,398193,85,South Charleston,7.2,Michael Jarrett
+Stamped Concrete Spec Inc,Nathan,Luth,2489698900.0,Leonard,MI,CONCRETE AND ASPHALT WORK,Kubota,"Kubota U-17, Kubota SVL-97-2, Kubota SVL-753HFWVCC, Kubota SVL-75-2",5,2023,353414,85,Novi,12.2,Nathan Luth
+Envir Trenching Inc,Russell,Fry,7407889150.0,Newark,OH,EXCAVATION WORK,Kubota,"Kubota R-640-R-43, Kubota U-17, Kubota SVL-65-2, Kubota SVL-75-2, Kubota SVL-97-2",5,2023,365061,85,Dublin,6.0,Russell Fry
+Dannys Septic Svc Inc,Evan,Schenck,3178922476.0,Pittsboro,IN,SEPTIC TANK INSTALLATION MAINT,"Case, New Holland","Case TR-310-B, New Holland C-227, Case CX-17-C, Case CX-57-C",5,2025,260907,85,Indianapolis,3.8,Evan Schenck
+Miller Family Const LLC,Jonas,Miller,,New Haven,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SSV-65, Kubota U-27-4, Kubota SVL-75-2, Kubota K-008-5, Kubota SVL-75-3-HWCC",5,2023,328515,85,Fort Wayne,2.5,Jonas Miller
+Chris Pidcock Exc,Christopher,Pidcock,7406643135.0,Nelsonville,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-040-4",5,2022,345811,85,Brilliant,9.4,Christopher Pidcock
+Thompson Exc Ltd,Scott,Thompson,7407567256.0,Carroll,OH,EXCAVATION WORK,Kubota,Kubota SVL-75-2,5,2022,306884,85,North Canton,5.4,Scott Thompson
+Penn OH Sealing Co,Michael,Mangine,,Struthers,OH,HIGHWAY AND STREET CONSTRUCTION,Case,"Case 580-SUPER-N, Case 721-G, Case TV-380",5,2019,703398,85,North Canton,16.7,Michael Mangine
+Deakins Const Inc,Richard,Deakins,8593930660.0,Walton,KY,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-65-2, Kubota SVL-65-2-HWC, Kubota SVL-75-2",5,2022,229970,85,Monroe,24.6,Richard Deakins
+Knapke Dozing LLC,Timothy,Knapke,4199424020.0,Coldwater,OH,EXCAVATION WORK,"Case, New Holland","New Holland C-345, Case 1845-C, New Holland L-328",5,2020,180102,85,Cambridge,22.3,Timothy Knapke
+Boss & Son Exc LLC,Ronald,Bostic,,Bladensburg,OH,EXCAVATION WORK,Kubota,"Kubota KX-057-4, Kubota KX-121-3, Kubota SVL-75-2",5,2020,240471,85,Dublin,6.0,Ronald Bostic
+R M L Contr LLC,Ryan,Wisecarver,7402977511.0,Zanesville,OH,HEAVY CONSTRUCTION NEC,"Kobelco, Kubota","Kobelco SK-140-SRLC-3, Kubota SVL-95-2-S, Kobelco SK-210-LC-9, Kobelco SK-45-SRX-6-E",5,2019,336160,85,Brunswick,19.5,Ryan Wisecarver
+K & F Exc LLC,,,,Beallsville,OH,EXCAVATION WORK,"Bomag, Case, Kobelco","Case 650-M-LT, Kobelco SK-35-SR-6-E, Bomag BW-177-D-3, Bomag nan",5,2019,130381,85,Brunswick,19.5,
+Team Stanley Exc LLC,Gordon,Stanley Jr,,Ashley,OH,EXCAVATION WORK,Kubota,"Kubota KX-057-5, Kubota SVL-97-2, Kubota SVL-75-2, Kubota KX-0804S2R3A, Kubota KX-057-4",5,2023,388027,85,Dublin,6.0,Gordon Stanley Jr
+Powerblast LLC,Brian,Hayes,2608542774.0,Wolcottville,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-080-4-S-2, Kubota SVL-97-2-HCC, Kubota KX-040-4, Kubota SVL-97-3-HFCC, Kubota KX-057-5",5,2025,425391,85,Fort Wayne,2.5,Brian Hayes
+John C & Son Const Co,Mauro,Caporuscio,5862639444.0,Macomb,MI,CONCRETE AND ASPHALT WORK,"Case, Kubota","Case TR-320, Case CX-36-B, Case TV-370-B, Kubota SSV-65",4,2023,229327,85,Novi,27.3,Mauro Caporuscio
+Pontem Contr Inc,June,Schutt,3174841500.0,Indianapolis,IN,BRIDGE TUNNEL & ELEVATED HIGHWAY,Link-Belt,"Link-Belt 145-X-4, Link-Belt 245-X-4, Link-Belt 300-X-4",4,2024,1235043,85,Indianapolis,3.8,June Schutt
+Langley Exc,Michael,Langley,8123328068.0,Bloomington,IN,EXCAVATION WORK,"Case, Kubota","Case TR-310, Kubota U-55-4, Case TR-310-B",4,2023,318492,85,Indianapolis,68.6,Michael Langley
+Heath Exc Svc LLC,Randall,Heath,6145826681.0,Ostrander,OH,EXCAVATION WORK,"Kubota, New Holland","New Holland B-95-C, New Holland C-232, Kubota U-48-5-R-3-A",4,2023,274428,85,Dublin,6.0,Randall Heath
+Tysinger Const Inc,Laura,Tysinger,6148189340.0,Westerville,OH,RESIDENTIAL CONSTRUCTION NEC,"Kobelco, Kubota","Kubota U-55-5, Kubota SVL-75-2, Kobelco SK-170-LC-10",4,2021,511259,85,Dublin,6.0,Laura Tysinger
+Henderson Const,Linden,Henderson,2608376041.0,Waterloo,IN,CONCRETE AND ASPHALT WORK,"Kobelco, Kubota","Kobelco SK-210-LC-9, Kubota SVL-75-2, Kubota SVL-75-3HFWCC",4,2024,384605,85,Fort Wayne,2.5,Linden Henderson
+Sprague Exc LLC,Sprague,Bourke,2703337846.0,Sturgis,KY,EXCAVATION WORK,Kobelco,"Kobelco SK-260-LC-10, Kobelco SK-210-LC-9, Kobelco ED-160, Kobelco SK-210-LC-10",4,2020,1052407,85,Monroe,90.4,Sprague Bourke
+Integrity Oil Field Svc LLC,Shawn,Work,7407493176.0,Stockport,OH,OIL AND GAS FIELD SERVICES NEC,"Kobelco, Kubota","Kubota SVL-97-2, Kubota SVL-65-2-HWC, Kobelco SK-140-SRLC-7",4,2024,617023,85,Brunswick,19.5,Shawn Work
+Charlies Pavng LLC,Charles,Swartz,,Norwalk,OH,HIGHWAY AND STREET CONSTRUCTION,"Case, Kubota","Case TV-450-B, Kubota SSV-75",4,2023,291705,85,Gallipolis,33.5,Charles Swartz
+Crabtree Custom Concrete LLC,Sarah,Crabtree,7402593721.0,Lucasville,OH,CONCRETE AND ASPHALT WORK,"Case, Kobelco, Kubota","Kubota SVL-95-2-S, Case 580-SUPER-NWT, Kobelco SK-160-LC",4,2016,248994,85,Brilliant,9.4,Sarah Crabtree
+Stiers Exc LLC,Robert,Stiers,,Croton,OH,EXCAVATION WORK,"Case, Kobelco","Kobelco SK-45-SRX-7, Case TR-310-B, Case TR-270-B",4,2025,336306,85,Dublin,6.0,Robert Stiers
+T K Exc & Grdng LLC,Troy,Kittrell,,Girard,OH,EXCAVATION WORK,"Kubota, Link-Belt","Link-Belt 145-X-3, Kubota KX-057-5-R-3, Kubota SVL-65-2-HFWC, Kubota KX-080-4-S2R3",4,2024,444080,85,North Canton,16.7,Troy Kittrell
+C E McLean Cnty LLC,Ronald,Ummel,,Westfield,IN,LOCAL GOVERNMENT,"Case, Kubota","Case TR-270-B, Kubota SVL-75-2, Case CX-37-C",4,2023,331245,85,Indianapolis,3.8,Ronald Ummel
+Ground Effects Exc,Jeffery,Connolly,,Mount Victory,OH,EXCAVATION WORK,"Case, Kubota","Case TR-340, Kubota KX-080-4, Case CX-55-B",3,2021,209053,85,North Canton,5.4,Jeffery Connolly
+P R M Land Renovations LLC,Michael,Montag Jr,5134037771.0,Wilmington,OH,HEAVY CONSTRUCTION NEC,"Kubota, Sany","Kubota KX-040-4, Sany SY-35-U, Kubota KX-033-4-R-3A",3,2024,221194,85,Monroe,24.6,Michael Montag Jr
+Bradford Bros ASPH & Const Co,Robert,Bradford,3049340102.0,Glen Daniel,WV,HIGHWAY AND STREET CONSTRUCTION,Case,"Case CX-145-D-SR, Case CX-80-C, Case SV-212",3,2024,514185,85,South Charleston,55.1,Robert Bradford
+H R E C LLC,Shannon,Lerch,7402362453.0,Marietta,OH,EXCAVATION WORK,"Kubota, Sany","Sany SY-50-U, Kubota KX-080-3, Sany SY-135-C",3,2025,399947,85,Brilliant,9.4,Shannon Lerch
+Miners Hall Exc LLC,John,Lowry,,Senecaville,OH,EXCAVATION WORK,"Case, Kobelco, Kubota","Kubota KX-018-4, Case CX-55-B, Kobelco SK-35-SR-7",3,2024,162684,85,Brunswick,19.5,John Lowry
+R 3 DVLP LLC,,,,Norwalk,OH,EXCAVATION WORK,"Kubota, New Holland","New Holland C-227, Kubota KX-033-4-R-3A",3,2024,203333,85,Gallipolis,33.5,
+Thomas Grdng & Seeding LLC,Thomas,Tanner,,Kokomo,IN,EXCAVATION WORK,"Case, Kubota","Case 650-M, Kubota SVL-75-2, Case 750-M",3,2023,306594,85,Fort Wayne,2.5,Thomas Tanner
+Exact Exc LLC,,,7402723620.0,Delaware,OH,EXCAVATION WORK,"Kobelco, Kubota","Kobelco SK-140-SRLC-7, Kubota SVL-65-2, Kubota KX-040-4",3,2022,233454,85,Dublin,6.0,
+Pure Muscle LLC,Justin,Cooper,3045498372.0,Charleston,WV,WATER SEWER PIPELINE CONSTRUCTION,"Case, Kubota","Case CX-250-D, Kubota KX-121-3, Case CX-160-D",3,2020,568845,85,South Charleston,7.2,Justin Cooper
+Affordable Concrete Spec LLC,Justin,Kromski,,Cincinnati,OH,CONCRETE AND ASPHALT WORK,"Kubota, Sany","Sany SY-60-C, Kubota SVL-65-2",3,2023,258010,85,Monroe,24.6,Justin Kromski
+VIC Spina Custom Homes Inc,Victor,Spina Jr,7653427940.0,Martinsville,IN,SINGLE FAMILY HOUSING CONSTRUCTION,"Case, Kubota","Case CX-37-C, Kubota SVL-65-2, Kubota SVL-65-2-HWC",3,2025,246738,85,Indianapolis,3.8,Victor Spina Jr
+Complete Custom Const LLC,Scott,Fall,5674016154.0,Milan,OH,HEAVY CONSTRUCTION NEC,"JLG, Kubota","Kubota SVL-65-2, Kubota SVL-75-3-HWCC, JLG 1055",3,2025,326506,85,Gallipolis,33.5,Scott Fall
+Empire Exc LLC,Bryce,Batchelder,,New Richmond,OH,EXCAVATION WORK,"Kubota, New Holland","Kubota SVL-97-2-HFCC, New Holland C-337, Kubota KX-040-4-R-3",3,2025,256502,85,Monroe,24.6,Bryce Batchelder
+Lexington Coal Co,Dan,Gieger,,Milton,WV,COAL MINING SERVICES,Sany,"Sany SY-265-C, Sany SY-365-C, Sany SY-95-C, Sany SY-215-C, Sany SY-500-H",910,2019,1470018,80,South Charleston,16.9,Dan Gieger
+D R P Inds LLC,,,7404911428.0,Cadiz,OH,RENTAL AND LEASING CO,"Bomag, Kubota, Link-Belt","Kubota SVL-97-2, Kubota SVL-75-2, Bomag BW-211-D-5, Link-Belt 80-X-3",250,2022,498701,80,Mansfield,17.9,
+Jaw EQT Lsg LLC,,,,Columbus,OH,RENTAL AND LEASING CO,"Kobelco, New Holland","New Holland L-328, Kobelco nan",213,2025,1936367,80,Dublin,11.3,
+Circle City Outdoor Living LLC,Jason,Patterson,3172577518.0,Indianapolis,IN,LANDSCAPING CONTRACTORS,Case,"Case SV-280, Case TV-380, Case SV-280-B, Case 621-F",92,2020,1301154,80,Indianapolis,3.8,Jason Patterson
+Todds Svc Inc,Todd,Labutte,8102312778.0,Hamburg,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-057-4, Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-97-2, Kubota SVL-97-2-HFCC",55,2025,2020515,80,Novi,24.2,Todd Labutte
+OH High Reach LLC,Tiffany,Tutin,2163730854.0,Cleveland,OH,EQUIPMENT SALES,"JLG, Kubota","JLG G-12-55-A, Kubota SVL-75-3-HWCC, Kubota SVL-97-2-HFCC, JLG G-5-18-A",29,2025,612111,80,Brunswick,19.5,Tiffany Tutin
+McKee Cemetery Svc LLC,Jason,McKee,9374027585.0,Hillsboro,OH,CEMETERY SUBDIVIDERS & DEVELOPERS,"Kobelco, Kubota","Kubota KX-040, Kobelco SK-85-CS-7, Kubota KX-121-3, Kubota nan, Kubota nan",25,2020,1537493,80,Monroe,24.6,Jason McKee
+Real Alloy Recycling & Specification LLC,Terry,Hogan,2167558900.0,Beachwood,OH,RECYCLING NEC,"Case, Link-Belt","Case 721-G-XR, Link-Belt 145-X-4-DZ, Case CX-145-D-SR, Case 921-G, Case 621-G-XR",20,2021,1233494,80,Brunswick,19.5,Terry Hogan
+Licking Cnty OH,Larry,Lloyd,7406705040.0,Newark,OH,REGULATION & ADMIN OF TRANSPORTATN,"Case, Kobelco","Kobelco SK-230-SRLC-7, Case 856-C, Kobelco SK-210-LC, Case 521-G, Kobelco SK-85-CS-7",17,2024,989661,80,Dublin,6.0,Larry Lloyd
+Mengel Dairy Farms LLC,William,Mengel,,Big Prairie,OH,DAIRY FARMS,"Kubota, New Holland","New Holland L-225, Kubota R-630, Kubota SSV-75, Kubota SSV-65-HRC, Kubota SSV-65",16,2025,893956,80,Brilliant,21.9,William Mengel
+Dohners Lawncare,Christoper,Dohner,3307149570.0,Hudson,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SSV-75, Kubota R-640-R-43, Kubota SSV-75-PHFC",15,2024,799187,80,North Canton,43.4,Christoper Dohner
+Perf Lndscp Grp LLC,Glen,Gee,,Grove City,OH,LANDSCAPING CONTRACTORS,New Holland,"New Holland C-327, New Holland L-228, New Holland C-332, New Holland C-337, New Holland C-245",14,2024,790392,80,North Canton,5.4,Glen Gee
+Cumberland Recycling Grp LLC,Norman,McGervay,5134223696.0,Middletown,OH,RECYCLING NEC,"Kobelco, Sany","Sany SY-235-C, Kobelco SK-500-LC-10, Sany SY-215-C, Kobelco SK-500-LC-9",14,2020,2642041,80,Monroe,24.6,Norman McGervay
+Indl Commercial Residential EQT Rntl & Supply LLC,Kenneth,Ware,7403251079.0,Bellaire,OH,RENTAL AND LEASING CO,"Bomag, JLG","JLG nan, JLG G-9-43-A, JLG G-5-18-A, Bomag BW-141-AD",13,2020,810684,80,Mansfield,17.9,Kenneth Ware
+Kessel Const LLC,Dave,Kessel,2603473366.0,Kendallville,IN,EXCAVATION WORK,Kubota,"Kubota KX-040, Kubota SVL-75, Kubota SVL-65-2",12,2020,178479,80,Fort Wayne,2.5,Dave Kessel
+Hartville Contr Rntl LLC,Mark,Wagler,3308771288.0,Hartville,OH,HARDWARE STORES,"JLG, Kubota","Kubota SVL-75-2, Kubota SVL-65-2, JLG G-5-18-A, Kubota SVL-65-2-HWC, Kubota SSV-75",12,2023,971031,80,Brilliant,21.9,Mark Wagler
+Ken Neyer Plbg Inc,James,Neyer,5133533311.0,Cleves,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-080-4-S, Kubota SVL-75-2, Kubota U-55-4, Kubota KX-040-4",11,2019,538828,80,Monroe,24.6,James Neyer
+IDYL Wild Farm Inc,Paul,Weber,4199949152.0,Loudonville,OH,CROP PLANTING AND PROTECTING,"Kubota, New Holland","New Holland L-320, New Holland L-318, Kubota SSV-75, New Holland L-218, Kubota SVL-75-3-HW",11,2023,765839,80,Gallipolis,33.5,Paul Weber
+Maddox Garden Ctr & Lndscp Inc,Robert,Maddox,8593716340.0,Florence,KY,RETAIL NURSERIES & GARDEN STORES,"Kubota, New Holland","New Holland L-330, New Holland C-327, New Holland C-314, New Holland C-330, Kubota KX-033-4-R-3A",11,2025,631379,80,Monroe,24.6,Robert Maddox
+Jon Richardson Exc LLC,Jon,Richardson,8123392177.0,Bloomington,IN,EXCAVATION WORK,Case,"Case CX-36-B, Case SR-250, Case 580-L, Case CX-80",10,2016,203450,80,Indianapolis,68.6,Jon Richardson
+Wells Exc,Michael,Wells,3309470738.0,Atwater,OH,EXCAVATION WORK,"Case, Kubota","Kubota KX-040-4, Case 550-G, Kubota SSV-75",10,2017,110592,80,North Canton,43.4,Michael Wells
+T E C LLC,Thomas,Elliott,8593569849.0,Crittenden,KY,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-90-2, Kubota KX-057-5, Kubota SVL-753HFWVCC, Kubota SVL-95-2-S, Kubota KX-057-5-R-3",10,2024,774737,80,Monroe,24.6,Thomas Elliott
+Teddys Lawn & Lndscp Inc,Brent,Teddy,7345256945.0,Livonia,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota U-55-5, Kubota KX-040-4",10,2021,630842,80,Novi,24.2,Brent Teddy
+HARO Lndscp LLC,Fernando,Haro,5138941755.0,Hamilton,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-97-2, Kubota SVL-75-2, Kubota SVL-753HFWVCC, Kubota SVL-95-2-S, Kubota KX-033-4",10,2025,678604,80,Monroe,24.6,Fernando Haro
+Eastons Lawn & Lndscp LLC,James,Easton,9375390118.0,Bellefontaine,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-3HFWVC, Kubota KX-080-5-R-3A, Kubota KX-080-4-S-2, Kubota KX-033-4-R-3A, Kubota SVL-753HFWVCC",9,2025,843343,80,North Canton,5.4,James Easton
+Fast Cash Recycling LLC,Julian,Vega,5133530082.0,Cleves,OH,RECYCLING NEC,"Kobelco, Kubota","Kubota SVL-65-2, Kubota SVL-97-2, Kubota U-17, Kobelco SK-210-LC-10, Kubota KX-057-5",9,2022,845605,80,Monroe,24.6,Julian Vega
+Neighborgall Const Co,Charles,Neighborgall,3045255181.0,Huntington,WV,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-080-5-R-3A, Kubota SVL-65-2-HFWC, Kubota SVL-97-2-HFC, Kubota SVL-75-3HFWVC",8,2025,478775,80,Marietta,62.2,Charles Neighborgall
+Adams Lndscp Co,Scott,Adams,3303317440.0,Wadsworth,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-033-4, Kubota SSV-75, Kubota KX-057-4, Kubota SVL-95-2-S, Kubota SVL-90-2",8,2021,551798,80,North Canton,43.4,Scott Adams
+Longworth Prop Svc LLC,John,Longworth,9378556753.0,Germantown,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-057-5-R3AP, Kubota SSV-75, Kubota KX-040-4, Kubota SVL-97-3-HFCC, Kubota SVL-75-2",8,2025,638422,80,Monroe,26.3,John Longworth
+Phillips Ent Inc,Donald,Phillips,2707334342.0,Livermore,KY,SCRAP AND WASTE MATERIALS,"Case, Kobelco, New Holland","Kobelco nan, Case 9040-B, New Holland L-316",8,2021,267509,80,Monroe,90.4,Donald Phillips
+Bylers Roofing & Const LLC,Samuel,Byler,4404223250.0,Orwell,OH,ROOFING SIDING & SHEET METAL,"Kubota, New Holland","New Holland L-565, Kubota SVL-95-2-S, Kubota SVL-75-2-HWC",8,2019,211345,80,Brunswick,19.5,Samuel Byler
+Franklin Garage Bldrs LLC,,,,Ashley,OH,NONRESIDENTIAL CONSTRUCTION NEC,New Holland,"New Holland E-37-C, New Holland E-17-C, New Holland L-225, New Holland E-60-C, New Holland C-330",8,2024,384254,80,Dublin,6.0,
+Dunbar Carpentry Inc,,,3178519640.0,Greenwood,IN,CARPENTRY WORK,"Gradall, JLG","JLG G-6-42-A, Gradall G-6-42-P, JLG G-12-55-A, JLG G-10-55-A",8,2015,315820,80,Indianapolis,3.8,
+COIA EQT Rntl LLC,David,Daywalt,3302963175.0,Ravenna,OH,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota U-35-4-R-3, Kubota U-17-VR-1, Kubota SVL753HFWVRCC, Kubota SVL-753HFWVCC, Kubota KX-040-5-R-3A",7,2025,325263,80,North Canton,43.4,David Daywalt
+Flores Lndscp & Nursery Inc,Jorge,Flores,4402314376.0,Painesville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota SVL-95-2-S, Kubota KX-057-5, Kubota SVL-97-2-HFCC, Kubota U-35-4",7,2024,545670,80,Brunswick,19.5,Jorge Flores
+Dynamic Structures Const Mgmt LLC,Scott,McCrea,3308860533.0,East Palestine,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-3, Kubota KX-057-5-R-3A, Kubota KX-040-4, Kubota SVL-95-2-S, Kubota SVL-753HFWVCC",7,2024,504166,80,North Canton,16.7,Scott McCrea
+Summit Indl Svc LLC,,,2484999015.0,Pontiac,MI,SCRAP AND WASTE MATERIALS,"Kobelco, Link-Belt","Link-Belt 250-X-4, Kobelco SK-390-LC-11, Kobelco SK-85-CS-7, Kobelco SK-130-LC-11, Kobelco SK-210-LC-11",7,2023,1139370,80,Novi,12.2,
+Premier Undrgrnd Inc,,,,Noblesville,IN,UTILITY CONSTRUCTION,Link-Belt,"Link-Belt 250-X-4, Link-Belt 210-X-3",7,2016,325310,80,Indianapolis,3.8,
+Range Envir Resources Inc,Jeremy,Starks,,Beachwood,OH,ENVIRONMENTAL QUALITY,"Case, Kubota","Case 850-M-WT, Case CX-300-E, Case TV-450-B, Case 650-M-LT, Kubota KX-080-4-S-2",7,2023,1125782,80,Brunswick,19.5,Jeremy Starks
+Circle C Contr Inc,Charles,Barr,2706919142.0,Owensboro,KY,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-057-5-R3AP, Kubota SVL-753HFWVCC",6,2023,287432,80,Monroe,90.4,Charles Barr
+1st Impressions Lawn Svc Inc,John,Hauser,2706857099.0,Owensboro,KY,LANDSCAPING CONTRACTORS,"Case, Kubota","Case W-14-C, Kubota KX-057-5, Kubota SVL-95-2-S, Kubota KX-080-5-R-3A",6,2025,449497,80,Monroe,90.4,John Hauser
+J A Smith Inc,Larry,Smith,8124248141.0,Evansville,IN,SPECIAL TRADE CONTRACTORS NEC,Case,"Case 850-M-WT, Case 621-F, Case CX-36-B, Case CX-210-B, Case CX-160-D",6,2015,533685,80,Evansville,5.2,Larry Smith
+Scott Miller Contr LLC,Scott,Miller,3306200229.0,Atwater,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-057-4, Kubota SVL-75-2, Kubota KX-080-4-S, Kubota KX-080-3, Kubota KX-080-4-S2R3",6,2023,509745,80,North Canton,43.4,Scott Miller
+Sturgeon Exc LLC,Linda,Sturgeon,2608244317.0,Bluffton,IN,EXCAVATION WORK,New Holland,"New Holland E-35-B, New Holland C-227, New Holland E-57-C, New Holland C-237",6,2019,213077,80,Fort Wayne,2.5,Linda Sturgeon
+Ritchey Bros LLC,Donald,Ritchey,9374642083.0,Belle Center,OH,LIVESTOCK SERVICES EXC VETERINARY,"Case, Kubota, New Holland","Case SV-280, Case TV-370, Case TV-370-B, Kubota SSV-75, Case SV-280-B",6,2024,468315,80,North Canton,5.4,Donald Ritchey
+H & H Home Improv Inc,David,Hopper,3177692555.0,Whitestown,IN,RESIDENTIAL CONSTRUCTION NEC,Case,"Case CX-80, Case TV-450-B, Case TR-340-B, Case TV-620-B, Case 850-G",6,2025,409378,80,Indianapolis,3.8,David Hopper
+R V M Const Inc,Bradley,Woltz,7406811294.0,Lancaster,OH,MASONRY & OTHER STONEWORK,JLG,"JLG G-10-55, JLG G-9-43-A",6,2018,537593,80,North Canton,5.4,Bradley Woltz
+D & M Carter LLC,David,Carter,5138318843.0,Cincinnati,OH,WATER SEWER PIPELINE CONSTRUCTION,"Case, Kubota","Case CX-36-B, Kubota SVL-90-2, Kubota SVL-95-2-S",6,2017,364792,80,Monroe,24.6,David Carter
+D R Lawncare LLC,Dexter,Rogers,4193684934.0,Ashland,OH,LANDSCAPING CONTRACTORS,"Case, New Holland","New Holland L-220, New Holland E-60-C, Case 21-F, New Holland C-337, New Holland C-332",6,2024,392517,80,Gallipolis,33.5,Dexter Rogers
+Metro Detroit Metals LLC,,,3138267110.0,Detroit,MI,MANUFACTURING INDUSTRIES NEC,"Kobelco, Kubota","Kobelco SK-140-SRLC-5, Kubota R-640-R-43, Kobelco SK-350-LC-11, Kubota nan",6,2023,1041894,80,Novi,15.3,
+Champion Wash LLC,Logan,Turner,,Urbana,OH,PAINTING,Kubota,"Kubota KX-057-5, Kubota SVL-97-2, Kubota U-35-4, Kubota SVL-75-2, Kubota SSV-75",6,2023,405333,80,Dublin,6.0,Logan Turner
+Jumpstart Commun LLC,,,,Fort Wayne,IN,UTILITY CONSTRUCTION,Kubota,"Kubota KX-030-4-R-1, Kubota U-17-VR-1",6,2023,148273,80,Fort Wayne,73.8,
+U D Maint LLC,,,4407768981.0,Amherst,OH,SNOW PLOWING REMOVAL,Case,"Case 521-G-XR, Case 521-G",6,2025,435888,80,Brunswick,19.5,
+August Corso Sons Inc,Brad,Corso,4196260765.0,Sandusky,OH,ORNAMENTAL NURSERY PRODUCTS,Kubota,"Kubota SVL-75-3HFWCC, Kubota R-640-R-43, Kubota SVL753HFWVRCC",5,2025,436264,80,Gallipolis,33.5,Brad Corso
+Lencyk Msnry Co,Lawrence,Lencyk,3307299780.0,Youngstown,OH,MASONRY & OTHER STONEWORK,JLG,"JLG G-10-55, JLG G-9-43-A, JLG 1255, JLG G-10-55-A",5,2018,541993,80,Monroe,24.6,Lawrence Lencyk
+T N T Plbg LLC,Ricky,Truitt,4409631212.0,Vermilion,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SVL-65-2, Kubota KX-040-4, Kubota SSV-65",5,2020,306986,80,Brunswick,19.5,Ricky Truitt
+K D D Miller Farms LLC,Dale,Miller,3306582518.0,Doylestown,OH,CORN,New Holland,New Holland L-328,5,2021,237731,80,North Canton,43.4,Dale Miller
+Settlage & Settlage,John,Settlage,4197532709.0,Saint Marys,OH,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota SVL-97-2, Kubota SVL-753HFWVCC",5,2025,415033,80,Cambridge,22.3,John Settlage
+A & R Bldrs Ltd,Erma,Yoder,3308932111.0,Millersburg,OH,RESIDENTIAL CONSTRUCTION NEC,JLG,"JLG G-9-43-A, JLG 1055, JLG G-6-42-A, JLG nan, JLG G-12-55-A",5,2022,279464,80,Brilliant,21.9,Erma Yoder
+Weaver Cement Inc,Edgil,Weaver,7409651378.0,Galena,OH,CONCRETE AND ASPHALT WORK,New Holland,New Holland C-227,5,2015,227904,80,Dublin,6.0,Edgil Weaver
+Wades Mowing & Svc,Wade,Reeves,9374445288.0,Williamsburg,OH,LANDSCAPING CONTRACTORS,"Kubota, New Holland","New Holland L-220, New Holland C-232, Kubota KX-101, Kubota KX-040-4-R-1, Kubota SSV-75-HC",5,2023,323266,80,Monroe,24.6,Wade Reeves
+Monroe Grounds Maint LLC,Clark,Monroe,9373359335.0,Troy,OH,LANDSCAPING CONTRACTORS,"Case, Kubota","Kubota KX-033-4, Kubota SVL-75-2, Kubota KX-057-5-R3AP, Kubota R-640, Case 580-SUPER-M",5,2023,365750,80,Monroe,26.3,Clark Monroe
+Marshall Home & Bus Mgmt LLC,Rick,Marshall,3177142666.0,Lebanon,IN,RESIDENTIAL CONSTRUCTION NEC,Case,"Case 580-SUPER-M, Case CX-37-C, Case 580-C, Case TR-310-B",5,2022,250386,80,Indianapolis,3.8,Rick Marshall
+Roberts Sewer Svc Inc,William,Roberts,4195234138.0,Ottawa,OH,WATER SEWER PIPELINE CONSTRUCTION,Kubota,"Kubota KX-040-4, Kubota K-008-3, Kubota SVL-65-2",5,2021,272008,80,Cambridge,22.3,William Roberts
+Adams Grp Inc,Eric,Adams,,Rochester Hills,MI,WATER SEWER PIPELINE CONSTRUCTION,Kubota,"Kubota SVL-95-2-S, Kubota KX-057-5, Kubota SVL-97-2, Kubota SSV-75",5,2022,401350,80,Novi,12.2,Eric Adams
+Docs Tile LLC,Clinton,Beavers,6148770931.0,Circleville,OH,TERRAZZO TILE MARBLE MOSAIC WRK,Kubota,"Kubota SVL-753HFWVCC, Kubota SVL-65-2, Kubota U-48-5-R-3-AP, Kubota KX-040-4, Kubota KX-080-5-R-3A",5,2024,469206,80,North Canton,5.4,Clinton Beavers
+A C X Svc LLC,Fath,Albert,4409887714.0,Amherst,OH,RESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota R-640-R-43, Kubota KX-057-5, Kubota SVL-65-2, Kubota KX-040-5-R3AP",5,2024,430526,80,Brunswick,19.5,Fath Albert
+G & G Const LLC,,,,Marion,KY,HEAVY CONSTRUCTION NEC,Case,"Case TR-340, Case CX-37-C, Case CX-57-C",5,2020,132842,80,Monroe,90.4,
+Henshaw LLC,Dakota,Henshaw,,Evansville,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-033-4-R-3A, Kubota U-17-VR-1, Kubota KX-033-4-R-1A",5,2023,187849,80,Evansville,5.2,Dakota Henshaw
+A P Ohoro Co,Daniel,Horo,3307599317.0,Youngstown,OH,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota SVL-753HFWVCC, Kubota U-55-5-R-3-A, Kubota U-55-5, Kubota SVL-65-2",4,2025,354748,80,Monroe,24.6,Daniel Horo
+A G Design Inc,Ryan,Gregoire,3307693666.0,Seville,OH,UTILITY CONSTRUCTION,Kubota,"Kubota KX-040-4, Kubota SVL-97-2-HFCC, Kubota SVL-90-2, Kubota KX-080-4",4,2024,325538,80,North Canton,43.4,Ryan Gregoire
+Gudeman Concrete,Darrel,Gudeman,5748580119.0,Warsaw,IN,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-040-4, Kubota SVL-75-3-HWCC, Kubota SVL-75-2",4,2023,324206,80,Indianapolis,58.6,Darrel Gudeman
+Martz Concrete Const Inc,Duane,Martz,4402568556.0,Willoughby,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota U-48-5-R-3, Kubota SSV-75, Kubota U-35-4, Kubota SVL-65-2-HWC",4,2025,250422,80,Brunswick,19.5,Duane Martz
+Rush Concrete Const LLC,Andrew,Rush,9373629841.0,Saint Paris,OH,CONCRETE AND ASPHALT WORK,Case,"Case TV-450-B, Case TV-370-B, Case TR-340, Case TV-380",4,2023,312420,80,Dublin,6.0,Andrew Rush
+Crestview Ridge Farms LLC,John,Steward,4192898300.0,Ashland,OH,CASH GRAINS NEC,"Case, New Holland","Case SV-280, New Holland L-220, New Holland L-328",4,2022,228670,80,Gallipolis,33.5,John Steward
+Troyer & Sons Exc LLC,John,Troyer,7409982992.0,Frankfort,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2-HC",4,2023,309961,80,Brilliant,9.4,John Troyer
+Schell Exc LLC,Kevin,Schell,3173531436.0,Indianapolis,IN,EXCAVATION WORK,Case,"Case TR-310, Case TR-340-B",4,2024,327394,80,Indianapolis,3.8,Kevin Schell
+LOZE Exc LLC,Chris,Loze,4406366244.0,Huntsburg,OH,EXCAVATION WORK,Kubota,"Kubota KX-080-4, Kubota SVL-97-2, Kubota KX-057-4, Kubota KX-080-5-R-3A",4,2025,387468,80,Brunswick,19.5,Chris Loze
+Star Exc & Site DVLP,Brandon,Knecht,2603441311.0,Huntington,IN,EXCAVATION WORK,Case,"Case 580-SUPER-NWT, Case 621-F, Case CX-160-D, Case 721-G-XR",4,2017,630955,80,Fort Wayne,2.5,Brandon Knecht
+Buckeye Poured Walls LLC,,,,Columbus,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-080-4, Kubota SVL-95-2-S, Kubota SVL-75-2",4,2020,315870,80,Dublin,11.3,
+Paver Planet Inc,Jeremy,Dihn,9378849714.0,Brookville,OH,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota KX-080-4-S, Kubota SVL-75-2, Kubota U-55-4, Kubota KX-057-4",4,2020,325875,80,Monroe,26.3,Jeremy Dihn
+Kovein Concrete Const Inc,Stephen,Kovein III,3303341935.0,Wadsworth,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota U-17, Kubota SVL-75-2, Kubota KX-057-5",4,2022,217631,80,North Canton,43.4,Stephen Kovein III
+Dirtworks of OH LLC,Sabrina,Archer,7404326406.0,Cambridge,OH,EXCAVATION WORK,"Kubota, New Holland","Kubota SVL-90-2, New Holland EC-25, Kubota SVL-75-2, Kubota SVL-753HFWVCC",4,2025,173014,80,Brunswick,19.5,Sabrina Archer
+Keith Dike Exc Inc,Randall,Dike,8127242909.0,Owensville,IN,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2, Kubota U-55-5, Kubota U-55-4",4,2022,328072,80,Evansville,5.2,Randall Dike
+Collins Exc & Const LLC,Joshua,Collins,3309253570.0,Norton,OH,EXCAVATION WORK,Kubota,"Kubota KX-040-4-R-3, Kubota KX-080-5-R-3A, Kubota KX-080-4-S-2, Kubota SVL-75-2",4,2024,396988,80,North Canton,43.4,Joshua Collins
+K G Helber LLC,Angel,Sammons,7403809940.0,Logan,OH,EXCAVATION WORK,"Kobelco, Kubota","Kubota SVL-75-2, Kobelco SK-140-SRLC, Kubota KX-040-4",4,2017,361297,80,North Canton,5.4,Angel Sammons
+SOTO Irrig Inc,Raymundo,Soto,2164029503.0,Cleveland,OH,UTILITY CONSTRUCTION,Kubota,"Kubota SVL-75-2, Kubota U-27-4",4,2021,212952,80,Brunswick,19.5,Raymundo Soto
+Deans Lawn Maint & Snow Removal LLC,Dean,Kesling II,,Millbury,OH,SNOW PLOWING REMOVAL,"Case, Kubota","Kubota KX-040-4, Case TR-270-B, Case TR-270",4,2021,235861,80,North Canton,8.2,Dean Kesling II
+Payton & Son Concrete Inc,,,,Plainfield,IN,CONCRETE AND ASPHALT WORK,Case,"Case SV-280-B, Case SV-280, Case 440, Case SR-270",4,2020,201657,80,Indianapolis,3.8,
+Levelup Svc LLC,Wesley,Everly,,Columbia City,IN,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota KX-057-5-R-3A, Kubota KX-080-5-R-3A, Kubota KX-040-4",4,2024,381330,80,Fort Wayne,2.5,Wesley Everly
+Chimal Const LLC,,,3172208650.0,Indianapolis,IN,CONCRETE AND ASPHALT WORK,Case,"Case TR-310, Case TV-370, Case CX-57-C, Case CX-80-C",4,2024,367044,80,Indianapolis,3.8,
+Proscape Septic Inc,Bradley,Cyhan,,West Farmington,OH,SEPTIC TANK INSTALLATION MAINT,"Kobelco, Kubota","Kubota SVL-75-2, Kubota SSV-65, Kobelco SK-170-LC",4,2021,437481,80,North Canton,16.7,Bradley Cyhan
+A & A Elec Const & Solution LLC,Allison,Dumolt,7404085545.0,Thornville,OH,ELECTRICAL WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-4-S-2, Kubota SVL-65-2-HWC, Kubota KX-040-4",4,2023,340233,80,Dublin,6.0,Allison Dumolt
+Concrete Recovery LLC,Connor,Ford,,South Lebanon,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-75-3-HWCC, Kubota KX-033-4, Kubota SVL-75-2, Kubota U-55-5-R-3-A",4,2024,303523,80,Monroe,24.6,Connor Ford
+Romero Concrete LLC,Artemio,Romero,,Pontiac,MI,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-75-3-HWCC, Kubota SVL-65-2",4,2024,327145,80,Novi,12.2,Artemio Romero
+Maysville Ready Mix Concrete Co,Kevin,Sheehan,8595860148.0,Covington,KY,CRUSHED AND BROKEN STONE NEC,"JLG, Link-Belt","Link-Belt 800-X-2, JLG 1055",4,2017,711577,80,Monroe,24.6,Kevin Sheehan
+Dino Piergallini & Sons EQT Ent Inc,Mario,Piergallini,7404877125.0,Cadiz,OH,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-97-2",4,2022,323797,80,Mansfield,17.9,Mario Piergallini
+Accu Drain LLC,Nathan,Dobbelaere,,Oakwood,OH,UTILITY CONSTRUCTION,"Case, Kubota","Case 1150-B, Kubota U-55-5, Kubota SVL-75-2",4,2022,189237,80,Cambridge,22.3,Nathan Dobbelaere
+Chagrin Vly Gig LLC,Hunter,Dett,,Columbus,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-033-4-R-3, Kubota U-17-VR-1, Kubota KX-040-4-R-3, Kubota SVL-753HFWVCC",4,2024,264556,80,Dublin,11.3,Hunter Dett
+Non Stop Maint Inc,,,4407484959.0,Grafton,OH,EXCAVATION WORK,Case,"Case 321-F, Case 521-G",4,2021,275219,80,Brunswick,19.5,
+Wiseman Const Co,John,Wiseman,3043441200.0,Winfield,WV,NONRESIDENTIAL CONSTRUCTION NEC,"Case, Kubota","Kubota KX-040-4, Case CX-80-C, Kubota U-55-5",3,2022,306011,80,South Charleston,7.2,John Wiseman
+Todd Alspaugh & ASSC Inc,Todd,Alspaugh,4194768126.0,Toledo,OH,EXCAVATION WORK,Kubota,"Kubota SVL-97-2, Kubota SVL-75-2",3,2023,236400,80,Perrysburg,32.2,Todd Alspaugh
+Tom Spiker Exc & Concrete Corp,Tom,Spiker,3178616538.0,New Palestine,IN,EXCAVATION WORK,Case,"Case CX-57-C, Case TV-450-B, Case TR-310",3,2023,243672,80,Indianapolis,3.8,Tom Spiker
+Markley Ditching LLC,Alan,Markley,7858425524.0,New Paris,OH,UTILITY CONSTRUCTION,"Case, Kubota","Kubota U-55-4, Case 580-SUPER-NWT, Kubota SVL-95-2-S",3,2019,230768,80,Monroe,26.3,Alan Markley
+Centro Const Inc,Joseph,Zanotti,2483485533.0,Novi,MI,CONCRETE AND ASPHALT WORK,Kubota,"Kubota U-35-4, Kubota SVL-65-2",3,2023,237113,80,Novi,12.2,Joseph Zanotti
+R & R Earthmovers Inc,Rodney,Betts,2486279515.0,Ortonville,MI,EXCAVATION WORK,"Case, Kobelco","Kobelco SK-210-LC, Case 580-SUPER-NWT, Kobelco SK-200-LC",3,2016,360695,80,Novi,1.8,Rodney Betts
+Bay Shore EQT Rntl LLC,Ronnie,Cobb,2486285931.0,Ortonville,MI,EXCAVATION WORK,Kubota,"Kubota SVL-753HFWVCC, Kubota U-10-5, Kubota SVL-97-3-HFCC",3,2025,207105,80,Novi,1.8,Ronnie Cobb
+Scott Harner Backhoe Svc,Scott,Harner,9373742333.0,Xenia,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-4-S-2, Kubota KX-080-4-S",3,2022,232507,80,Monroe,26.3,Scott Harner
+Trio Concrete & Const Inc,George,Biggs,4409375345.0,Avon,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-97-2, Kubota SVL-75-2, Kubota KX-033-4",3,2021,202069,80,Brunswick,19.5,George Biggs
+Shankster Bros LP,Carl,Shankster,2609827111.0,Silver Lake,IN,UTILITY CONSTRUCTION,Kubota,"Kubota SVL-97-2-HFCC, Kubota SVL-95-2-S, Kubota U-48-5",3,2024,241266,80,Fort Wayne,2.5,Carl Shankster
+C T S Const Inc,Rick,Setzer,5134898290.0,Cincinnati,OH,UTILITY CONSTRUCTION,"New Holland, Sany","New Holland C-232, Sany SY-26-U",3,2022,183438,80,Monroe,24.6,Rick Setzer
+Precision Concrete Ent Inc,Tod,Nagy,3304482999.0,Masury,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-75-3HFWCC, Kubota U-35-4",3,2023,245031,80,North Canton,16.7,Tod Nagy
+Viking Plbg Inc,Michael,Lynn,3309473004.0,Atwater,OH,PLUMBING HEATING AIR CONDITIONING,"Kubota, New Holland","Kubota KX-040-4, New Holland C-332, New Holland C-227",3,2021,234037,80,North Canton,43.4,Michael Lynn
+Palazzolos Concrete Removal Inc,Dominic,Palazzolo,5869137452.0,Macomb,MI,CONCRETE AND ASPHALT WORK,New Holland,"New Holland L-328, New Holland C-332, New Holland L-228",3,2022,232491,80,Novi,27.3,Dominic Palazzolo
+A & S Exc LLC,Nathaniel,Attebury,,Hanson,KY,EXCAVATION WORK,Kubota,"Kubota SVL-97-2-HFC, Kubota U-48-5-R-3-A, Kubota KX-040-4-R-3A",3,2024,257482,80,Monroe,90.4,Nathaniel Attebury
+K & K Contr Inc,James,Knochelman,5024849996.0,Jonesville,KY,CONCRETE AND ASPHALT WORK,Kubota,"Kubota U-55-4, Kubota SVL-75-2, Kubota SVL-95-2-S",3,2020,231583,80,Monroe,24.6,James Knochelman
+Heartland Exc LLC,Brian,Hayes,9376872733.0,New Lebanon,OH,EXCAVATION WORK,Kubota,"Kubota SVL753HFWVRCC, Kubota KX-040-4, Kubota SVL-75-2",3,2025,236751,80,Monroe,26.3,Brian Hayes
+Liebrecht Exc LLC,Bradley,Liebrecht,4196925359.0,Delphos,OH,WATER SEWER PIPELINE CONSTRUCTION,"Kobelco, Kubota","Kobelco SK-140-SRLC, Kubota SVL-95-2-S, Kubota SVL-97-2",3,2021,470526,80,Cambridge,22.3,Bradley Liebrecht
+King & Sons Inc,Ron,King,8593416946.0,Villa Hills,KY,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota SVL-75-2, Kubota KX-080-4-S-2",3,2023,257917,80,Monroe,24.6,Ron King
+Hayes Concrete Const Inc,Emilee,Knochel,5136489400.0,Cincinnati,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-95-2-S",3,2020,229257,80,Monroe,24.6,Emilee Knochel
+Johnsons Hauling & Exc LLC,Dallas,Johnson,3174229288.0,Bargersville,IN,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-3-HFCC, Kubota SVL-97-2",3,2025,239751,80,Indianapolis,3.8,Dallas Johnson
+Taylor & Sons Well Svc & Exc LLC,Jared,Taylor,7659343823.0,Van Buren,IN,WATER WELL DRILLING,"Case, Kobelco, Kubota","Case 580-SUPER-M-2, Kobelco SK-55-SRX-6-E, Kubota SVL-75-2",3,2019,223444,80,Fort Wayne,2.5,Jared Taylor
+Golf Design Inc,Christopher,Ward,3042560908.0,Glen Morgan,WV,GOLF COURSE CONSTRUCTION,"Case, Kubota","Kubota SVL-90-2-HFC, Case 850-M, Case CX-57-C",3,2023,299247,80,South Charleston,55.1,Christopher Ward
+L V G Const Inc,Vernon,Graber,8126367881.0,Odon,IN,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota KX-040-4, Kubota KX-040-5-R-3A",3,2025,252025,80,Indianapolis,26.0,Vernon Graber
+D R X Corp,Richard,Hale,3305455662.0,Girard,OH,EXCAVATION WORK,Kubota,"Kubota KX-057-4, Kubota KX-080-4, Kubota SVL-75-2",3,2022,245527,80,North Canton,16.7,Richard Hale
+Coons Concrete LLC,Craig,Coon,4197442288.0,North Fairfield,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-080-4-S, Kubota KX-040-4",3,2022,262079,80,Gallipolis,33.5,Craig Coon
+Vincent Homes LLC,Vincent,Marcellino,4409444287.0,Willoughby Hills,OH,SINGLE FAMILY HOUSING CONSTRUCTION,"Kobelco, Kubota","Kubota KX-080-4, Kubota SVL-90, Kobelco SK-235-SRLC",3,2015,261611,80,Brunswick,19.5,Vincent Marcellino
+Miles ASPH & Pavement Maint LLC,Scott,Miles,4194201916.0,Findlay,OH,HIGHWAY AND STREET CONSTRUCTION,"Bomag, Kubota","Bomag nan, Kubota SSV-65-HFRC",3,2024,109144,80,Cambridge,22.3,Scott Miles
+J B Exc LLC,John,Burkholder,,Middlefield,OH,EXCAVATION WORK,"Kubota, Link-Belt","Link-Belt 160-X-4, Kubota KX-057-4, Kubota U-55-5",3,2018,270209,80,Brunswick,19.5,John Burkholder
+COXS Lawn & Vegetation Svc LLC,Heather,Cox,7408292794.0,Conesville,OH,LANDSCAPING CONTRACTORS,"Case, Kobelco, New Holland","New Holland C-232, Case CX-60-C, Kobelco SK-140-SRLC-7",3,2022,368873,80,Brunswick,17.9,Heather Cox
+Bailey Svc LLC,Travis,Bailey,8127893459.0,Stendal,IN,WATER SEWER PIPELINE CONSTRUCTION,"Case, Kubota","Case 590-SUPER-N, Kubota SVL-97-2-HFC, Case TV-380",3,2023,261370,80,Indianapolis,26.0,Travis Bailey
+Felty Elec Co,Dale,Felty,9374269736.0,Franklin,OH,ELECTRICAL WORK,"Kubota, New Holland","Kubota KX-040-4, New Holland E-30-C, Kubota U-17",3,2023,165672,80,Monroe,24.6,Dale Felty
+Matzak Exc Inc,Rich,Williams,5867495600.0,Ray,MI,EXCAVATION WORK,Kubota,"Kubota SVL-65-2, Kubota KX-040-4",3,2023,244950,80,Novi,27.3,Rich Williams
+Anthony W Simpson Const Inc,Anthony,Simpson,8593565140.0,Crittenden,KY,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota SVL-95-2-S, Kubota U-55-5-R-3-AP, Kubota SVL-75-2",3,2023,240565,80,Monroe,24.6,Anthony Simpson
+SAAR Exc LLC,John,Saar,5138749122.0,Fairfield,OH,EXCAVATION WORK,Kubota,"Kubota SVL-97-2, Kubota KX-057-5, Kubota SVL-75-2",3,2021,238633,80,Monroe,24.6,John Saar
+Browns Exc LLC,Richard,Brown,7657547121.0,Alexandria,IN,EXCAVATION WORK,Kubota,"Kubota U-48-5, Kubota SVL-75-3HFWCC, Kubota SVL-75-2",3,2023,241854,80,Indianapolis,3.8,Richard Brown
+McCoy Exc & Trking LLC,Kevin,McCoy,3305382704.0,North Jackson,OH,EXCAVATION WORK,Kubota,"Kubota U-48-5, Kubota SVL-95-2-S, Kubota U-55-5-R-3-AP",3,2025,247879,80,North Canton,16.7,Kevin McCoy
+Frazier Const LLC,Aidan,Frazier,7654550512.0,Kokomo,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-080-4, Kubota SVL-753HFWVCC, Kubota SVL-65-2",3,2023,273173,80,Fort Wayne,2.5,Aidan Frazier
+Karle Concrete LLC,Paul,Karle,5135037563.0,Cleves,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-65-2, Kubota KX-040-4, Kubota KX-057-5",3,2023,245957,80,Monroe,24.6,Paul Karle
+Martin Exc & Const,Evalene,Martin,7404266247.0,Jeffersonville,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-057-5, Kubota SVL-97-3-HCC",3,2025,246849,80,North Canton,5.4,Evalene Martin
+Kallners Home Svc,Heidi,Kallner,7402592434.0,Lucasville,OH,EXCAVATION WORK,Kubota,"Kubota KX-033-4, Kubota SVL-65-2, Kubota SVL-65-2-HFWC",3,2023,215678,80,Brilliant,9.4,Heidi Kallner
+Olivieri & Sons Inc,Mark,Olivieri,,Brunswick,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-35-4, Kubota SSV-75",3,2022,205105,80,North Canton,43.4,Mark Olivieri
+219 Invst LLC,Christopher,Weitzel,4192682651.0,Celina,OH,HEAVY CONSTRUCTION NEC,"Kubota, New Holland","New Holland LS-160, Kubota SSV-75, Kubota R-640",3,2021,188117,80,Cambridge,22.3,Christopher Weitzel
+Prop Sure Const Inc,Gary,Ross Jr,8122779730.0,Bloomington,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-35-4, Kubota SVL-75-2, Kubota SVL-95-2-S",3,2020,227089,80,Indianapolis,68.6,Gary Ross Jr
+R Z Shredding & Exc,Ryan,Zimmerman,4196870321.0,Greenwich,OH,EXCAVATION WORK,"Case, Kubota","Kubota SVL-95-2-S, Case CX-145-C-SR, Kubota SVL-90-2",3,2018,205184,80,Gallipolis,33.5,Ryan Zimmerman
+Bill Schmidts Custom Concrete LLC,Marie,Biscuso,,Marengo,OH,CONCRETE AND ASPHALT WORK,New Holland,"New Holland C-332, New Holland C-327, New Holland C-227",3,2023,206292,80,North Canton,5.4,Marie Biscuso
+Hannah Elec LLC,Hannah,Darby,4408538939.0,Perry,OH,ELECTRICAL WORK,Kubota,"Kubota SVL-75-2, Kubota U-35-4",3,2022,231713,80,Brunswick,19.5,Hannah Darby
+Tri State Bldg & Const LLC,Harvey,Knepp,8124862554.0,Montgomery,IN,SINGLE FAMILY HOUSING CONSTRUCTION,"JLG, Kubota","Kubota SVL-75-3HFWVC, JLG nan",3,2024,137435,80,Indianapolis,26.0,Harvey Knepp
+J A M Exc Svc Inc,,,3177466320.0,Indianapolis,IN,EXCAVATION WORK,Case,"Case TV-450, Case TV-370-B, Case CX-75-C",3,2022,222858,80,Indianapolis,3.8,
+R K Exc LLC,Ryan,Kinney,,Noblesville,IN,EXCAVATION WORK,"Kobelco, Kubota","Kubota KX-080-4-S, Kobelco SK-210, Kobelco SK-210-HLC-10",3,2019,207819,80,Indianapolis,3.8,Ryan Kinney
+Comptons ASPH LLC,John,Compton,4199822701.0,Oberlin,OH,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota SSV-75-HFRC, Kubota SSV-75",3,2024,231863,80,Brunswick,19.5,John Compton
+Millers Premier Const LLC,Wes,Miller,3303178290.0,Wooster,OH,SINGLE FAMILY HOUSING CONSTRUCTION,New Holland,"New Holland E-57-C, New Holland C-232, New Holland E-37-C",3,2023,215647,80,Brilliant,21.9,Wes Miller
+Lambert Const LLC,Brian,Lambert,,Dayton,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-033-4, Kubota KX-040-4, Kubota U-55-5",3,2022,225846,80,Monroe,26.3,Brian Lambert
+Overland Bldrs LLC,Jeffrey,Brown,,Greenwood,IN,NONRESIDENTIAL CONSTRUCTION NEC,"Case, Kubota","Kubota SVL-95-2-S, Case 850-G, Case CX-80-C",3,2023,235450,80,Indianapolis,3.8,Jeffrey Brown
+Fratello Concrete & Const Inc,,,2489890290.0,Rochester,MI,CONCRETE AND ASPHALT WORK,"Kubota, New Holland","Kubota KX-057-4, New Holland C-332, New Holland C-232",3,2020,188202,80,Novi,12.2,
+Carroll Creek Farms LLC,Jessica,Campbell,7653667394.0,Waynesville,OH,GENERAL FARMS PRIMARILY CROP,"Kubota, New Holland","New Holland L-218, Kubota SVL-75-3-HW, Kubota SVL-75-2",3,2023,223792,80,Monroe,24.6,Jessica Campbell
+Eversole Earthworks LLC,Jeremy,Eversole,,Philpot,KY,GENERAL FARMS PRIMARILY CROP,"Case, Kubota","Kubota KX-057-5, Kubota SVL-95-2-S, Case 850-G-LT",3,2021,218161,80,Monroe,90.4,Jeremy Eversole
+S L K Msnry LLC,Matthew,Knepp,8127870145.0,Montgomery,IN,MASONRY & OTHER STONEWORK,"Kubota, New Holland","Kubota SVL-75-3HFWCC, New Holland C-227, Kubota KX-040-4",3,2023,210075,80,Indianapolis,26.0,Matthew Knepp
+Custom Concrete & Design LLC,,,4194335578.0,Huron,OH,CONCRETE AND ASPHALT WORK,New Holland,"New Holland C-332, New Holland C-337, New Holland E-37-C",3,2024,217880,80,Gallipolis,33.5,
+A & A OH Const Ltd,Randall,Anders,3303361277.0,Medina,OH,EXCAVATION WORK,Kubota,"Kubota SSV-65, Kubota KX-040-4, Kubota SVL-65-2",3,2022,238617,80,North Canton,43.4,Randall Anders
+B C Contr LLC,Jonathan,Butler,,Danville,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SVL-97-2-HFCC, Kubota K-008-3, Kubota U-35-4",3,2024,205804,80,Indianapolis,3.8,Jonathan Butler
+Hoosier Dirt Guy Exc LLC,Brock,Brambley,,Nineveh,IN,EXCAVATION WORK,Kubota,"Kubota KX-040-4, Kubota SVL-65-2, Kubota SVL-753HFWVCC",3,2023,244950,80,Indianapolis,3.8,Brock Brambley
+Hedington Ent LLC,Jeremy,Hedington,,Warsaw,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SVL-97-2-HFCC, Kubota KX-040-4-R-3A, Kubota KX-080-4-S-2",3,2024,264592,80,Indianapolis,58.6,Jeremy Hedington
+A 1 Indl Painting LLC,Dennis,Billec,3307509441.0,Youngstown,OH,PAINTING,"Kubota, Link-Belt","Kubota SVL-97-2, Kubota SVL-97-3-HFCC, Link-Belt 145-X-4",3,2025,388738,80,Monroe,24.6,Dennis Billec
+L R C LLC,Pennie,Rider,,London,WV,EXCAVATION WORK,Case,"Case CX-37-C, Case TV-370-B, Case TR-310-B",3,2024,254861,80,South Charleston,7.2,Pennie Rider
+Andrew Casey Elec LLC,Andrew,Casey,9377654210.0,Dayton,OH,ELECTRICAL WORK,Kubota,"Kubota SVL-97-2-HFCC, Kubota SVL-753HFWVCC, Kubota SVL-75-3-HWCC",3,2025,257283,80,Monroe,26.3,Andrew Casey
+Easton Sls & Rntl LLC,Jeff,Udelson,4407080099.0,Chagrin Falls,OH,EQUIPMENT SALES,"Bomag, Sany","Sany SY-235-C, Sany SY-215-C, Sany SY-335-C, Sany SY-16-C, Bomag BW-213-D",2463,2016,9938747,75,Brunswick,19.5,Jeff Udelson
+B E T Ltd,Thomas,Knight,7406336607.0,Bridgeport,OH,TRUCKING (LOCAL AND LONG DISTANCE),JLG,"JLG nan, JLG 1255, JLG G-5-18-A, JLG 1644, JLG 1043",1708,2025,5484936,75,Mansfield,17.9,Thomas Knight
+W R C Rntl LLC,,,,Henderson,WV,RENTAL AND LEASING CO,"Kubota, Sany","Sany SY-95-C, Kubota SVL-97-2, Sany SY-80-U",52,2023,350290,75,South Charleston,7.2,
+Dogwood Hills Ent Inc,Todd,Lederman,5748253363.0,Middlebury,IN,TIMBER TRACTS,"Case, Kubota","Case TR-310, Kubota SVL-65-2-HFWC, Case SV-280, Case 465, Case SR-200",38,2024,239761,75,Indianapolis,58.6,Todd Lederman
+Peters Used EQT Inc,Ken,Peters,4193542280.0,Pemberville,OH,RENTAL AND LEASING CO,Kubota,"Kubota U-17, Kubota U-55-5, Kubota SVL-75-3-HFWC, Kubota SVL-75-2, Kubota SVL-95-2-S",31,2024,1443868,75,North Canton,8.2,Ken Peters
+Front Street EQT Rntl LLC,,,7407761433.0,Portsmouth,OH,RENTAL AND LEASING CO,Kubota,"Kubota KX-040-4, Kubota SVL-95-2-S, Kubota KX-018-4, Kubota SSV-75, Kubota KX-91-3",26,2023,995382,75,Brilliant,9.4,
+Midwest Lndscp Inds Inc,Stephen,Hastings,3172884376.0,Indianapolis,IN,LANDSCAPING CONTRACTORS,Case,"Case TV-370, Case TV-370-B, Case 221-F, Case CX-37-C",22,2022,490142,75,Indianapolis,3.8,Stephen Hastings
+All Crane Rntl Corp,Michael,Liptak,2165246550.0,Independence,OH,RENTAL AND LEASING CO,JLG,"JLG 1255, JLG 1055, JLG 943",21,2025,972717,75,Brunswick,19.5,Michael Liptak
+Ogles Tool & Party Rntl Inc,Michael,Clancy,8123767635.0,Columbus,IN,RENTAL AND LEASING CO,Kubota,"Kubota KX-018-4, Kubota KX-71-3, Kubota KX-040-4, Kubota KX-71-3-S-4, Kubota SVL-65-2",21,2023,1194843,75,Indianapolis,41.6,Michael Clancy
+Gallia Jackson Vinton Joint VOC Sch Dist,,,7402455334.0,Thurman,OH,VOCATIONAL SCHOOLS NEC,"Bomag, Case","Bomag nan, Case 650-M, Case SR-240-B, Case CX-37-C, Case TV-370-B",21,2025,299971,75,Brilliant,9.4,
+Obert Farms Inc,Thomas,Obert,8127534637.0,Fort Branch,IN,DAIRY FARMS,New Holland,"New Holland L-228, New Holland L-220, New Holland C-332, New Holland L-328, New Holland L-218",19,2023,686661,75,Evansville,5.2,Thomas Obert
+S & A Rntl Inc,Scott,Gould,2604905219.0,Fort Wayne,IN,RENTAL AND LEASING CO,Kubota,"Kubota U-35-4, Kubota SVL-65-2-HWC, Kubota U-35-4-R-3-A, Kubota SVL-65-2, Kubota SSV-65",17,2024,997964,75,Fort Wayne,73.8,Scott Gould
+Martin Dairy,Brent,Martin,5748622968.0,Goshen,IN,DAIRY FARMS,New Holland,"New Holland L-220, New Holland L-320",16,2024,576788,75,Indianapolis,58.6,Brent Martin
+2824 Barber Corp,Alex,Stavarz,3307457845.0,Norton,OH,RENTAL AND LEASING CO,Kubota,"Kubota SVL-75-2, Kubota KX-033-4-R-1, Kubota KX-91-3, Kubota KX-033-4, Kubota SVL-65-2-W",12,2024,772751,75,North Canton,43.4,Alex Stavarz
+C B S Svc LLC,Cara,Miller,5745382050.0,South Bend,IN,WATER SEWER PIPELINE CONSTRUCTION,"Case, New Holland","Case 410, New Holland E-26-C",12,2021,77333,75,Fort Wayne,2.5,Cara Miller
+M K W 1 LLC,,,,Newburgh,IN,HEAVY CONSTRUCTION NEC,Kubota,Kubota SVL-75-2,12,2023,51835,75,Evansville,5.2,
+FT Wayne Rocks Inc,John,Smith,2606723600.0,Roanoke,IN,BRICK STONE AND RELATED MATERIALS,Case,"Case TR-340, Case SV-300, Case TV-450-B, Case CX-160-D, Case TV-450",11,2024,669948,75,Fort Wayne,2.5,John Smith
+Sterling Heights Dairy Farm Ltd LLC,Matthew,Saal,3309392195.0,Sterling,OH,DAIRY FARMS,Kubota,"Kubota SSV-75, Kubota SSV-65-HRC, Kubota SSV-75-HRC",11,2024,525365,75,North Canton,43.4,Matthew Saal
+Amer Tool Time LLC,Todd,Arnold,7654536020.0,Kokomo,IN,RENTAL AND LEASING CO,Kubota,"Kubota SSV-65, Kubota SVL-75-2, Kubota SVL-75-3-HWCC, Kubota K-008-3, Kubota SSV-65-HC",10,2024,694101,75,Fort Wayne,2.5,Todd Arnold
+Rntl Svc Inc,Eric,Krebehenne,9375992642.0,Bellefontaine,OH,RENTAL AND LEASING CO,Kubota,"Kubota SSV-65, Kubota SVL-65-2, Kubota SVL-65-2-HFWC, Kubota U-27-4, Kubota SSV-65-PHFRC",10,2024,714172,75,North Canton,5.4,Eric Krebehenne
+M V H Custom Work LLC,Mark,Vanham,4195965208.0,Continental,OH,CORN,New Holland,New Holland L-220,9,2017,357624,75,Cambridge,22.3,Mark Vanham
+Rent A Lift LLC,Gary,Mast,,Fredericksburg,OH,RENTAL AND LEASING CO,JLG,"JLG G-10-55, JLG 1055, JLG G-10-55-A",9,2026,647133,75,Brilliant,21.9,Gary Mast
+Mullins Supply Inc,,,8127355066.0,Bicknell,IN,BRICK STONE AND RELATED MATERIALS,Case,"Case TR-340, Case 1650-M, Case CX-220-E, Case 580-SUPER-N, Case 1150-M",9,2024,860082,75,Indianapolis,26.0,
+Ruhlin Co,James,Ruhlin,3302392800.0,Sharon Center,OH,HIGHWAY AND STREET CONSTRUCTION,JLG,JLG nan,8,2018,133958,75,North Canton,43.4,James Ruhlin
+M Gustafson LLC,Matthew,Gustafson,,Mason,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-033-4, Kubota SVL-75-2, Kubota SVL-97-2, Kubota SVL-95-2-S, Kubota SVL-753HFWVCC",8,2024,479804,75,Holt,4.2,Matthew Gustafson
+Aleris Intl Inc,Joy,Parson,2605637461.0,Wabash,IN,SCRAP AND WASTE MATERIALS,Case,"Case 621-G-2, Case 921-G, Case SR-210-B",8,2025,1070053,75,Fort Wayne,2.5,Joy Parson
+P T S EQT LLC,Matthew,Foor,6148638830.0,Reynoldsburg,OH,BUSINESS CONSULTING NEC,Kubota,"Kubota KX-080-4-S, Kubota SVL-75-2, Kubota SVL-75-3-HWCC, Kubota SVL-65-2",8,2024,639998,75,Dublin,6.0,Matthew Foor
+Plantscape Lndscp,Troy,Thomas,9376538780.0,Cable,OH,LANDSCAPING CONTRACTORS,"Kubota, New Holland","New Holland C-245, Kubota KX-057-4, New Holland L-228",7,2019,274848,75,Dublin,6.0,Troy Thomas
+TEPE Envir Svc Ltd,Gregory,Tepe,8593315224.0,Cincinnati,OH,ENVIRONMENTAL QUALITY,Kubota,"Kubota SVL-75-2, Kubota SVL-75-3-HWCC, Kubota U-35-4, Kubota KX-040-5-R-1",7,2024,539682,75,Monroe,24.6,Gregory Tepe
+More Kubota LLC,Andy,More,2602445186.0,Columbia City,IN,FARM AND GARDEN MACHINERY,Kubota,"Kubota KX-057-5, Kubota SSV-75, Kubota SVL-75-2, Kubota SVL-95-2-S",7,2022,545742,75,Fort Wayne,2.5,Andy More
+Jeffs B & B Lawn & Lndscp LLC,Jeffrey,Tach,3305333392.0,Canfield,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-65, Kubota SSV-75-PHRC, Kubota U-25, Kubota SVL-75-2, Kubota KX-040-4",7,2023,438462,75,North Canton,16.7,Jeffrey Tach
+C R U Cutters LLC,Christopher,Cook,8597274100.0,Florence,KY,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2-HFWC, Kubota U-35-4, Kubota SVL-75-2, Kubota SSV-75, Kubota SSV-75-PHC",7,2023,429551,75,Monroe,24.6,Christopher Cook
+Indl Const Svc EQT LLC,,,,Cincinnati,OH,EQUIPMENT SALES,Kubota,"Kubota SVL-97-2, Kubota SVL-95-2-S",7,2022,547572,75,Monroe,24.6,
+Deer Vly Farm Supply,Thad,Cooperrider,7402465120.0,Thornville,OH,FARM SUPPLIES,"Case, Gradall, New Holland","New Holland nan, New Holland C-190, Gradall nan, Case 850-M-WT",7,2017,256026,75,Dublin,6.0,Thad Cooperrider
+Komplete Lndscp Contr Inc,Michael,Standeford,3179749945.0,Indianapolis,IN,LANDSCAPING CONTRACTORS,Case,"Case 621-G-XR, Case 321-F",7,2022,303594,75,Indianapolis,3.8,Michael Standeford
+Blendon Gardens Inc,Loren,Brelsford,7409094112.0,Lewis Center,OH,LANDSCAPING CONTRACTORS,New Holland,New Holland L-320,6,2024,276576,75,Dublin,6.0,Loren Brelsford
+C & C Family Farm LLC,Brett,Cummings,4195688016.0,Waynesfield,OH,CASH GRAINS NEC,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-4-S, Kubota SVL-75-2-W",6,2019,331805,75,Cambridge,22.3,Brett Cummings
+C & A Deloye Farms LLC,Christopher,Deloye,9372952068.0,Fort Loramie,OH,RETAIL NURSERIES & GARDEN STORES,"Kubota, New Holland","Kubota SVL-95-2-S, New Holland C-238, New Holland L-230, Kubota SSV-75, New Holland W-80-C",6,2024,398500,75,Cambridge,22.3,Christopher Deloye
+Browns Small Exc LLC,Darryl,Brown,3179964229.0,Monrovia,IN,EXCAVATION WORK,Kubota,"Kubota KX-018-4, Kubota U-17, Kubota U-27-4, Kubota SVL-75-2",6,2019,150118,75,Indianapolis,3.8,Darryl Brown
+Smith Scapes Lndscp Svc LLC,Brian,Smith,5134292076.0,Cleves,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota U-35-4, Kubota SVL-65-2-HW, Kubota SVL-65-2",6,2024,481258,75,Monroe,24.6,Brian Smith
+Kirk EQT Rntl LLC,Erick,Jackson,,Saint Albans,WV,RENTAL AND LEASING CO,"Case, Kubota","Case TV-380, Kubota KX-040-4, Kubota U-35-4",6,2022,387651,75,South Charleston,7.2,Erick Jackson
+Turf Concepts LLC,Jonathan,Yoder,4193394641.0,Lima,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota SVL-753HFWVCC, Kubota KX-080-4-S, Kubota KX-040-4-R3AP",5,2024,336147,75,Cambridge,22.3,Jonathan Yoder
+Dandy Breeze Dairy Farms Inc,Sally,Waitt,3177694570.0,Sheridan,IN,DAIRY FARMS,"Case, New Holland","New Holland L-218, New Holland L-328, New Holland L-220, New Holland L-213, Case TR-270-B",5,2025,302181,75,Indianapolis,3.8,Sally Waitt
+A W Cardinal Inc,Tony,Moore,5139325623.0,Oregonia,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-17, Kubota SVL-65-2, Kubota KX-033-4, Kubota SVL-97-3-HFCC, Kubota SVL-75-2",5,2025,337392,75,Monroe,24.6,Tony Moore
+William Taylor Trking LLC,Rick,Taylor,2606233704.0,Monroeville,IN,TRUCKING (LOCAL AND LONG DISTANCE),Case,"Case 580-SUPER-N, Case 580-SV, Case CX-210-C, Case SV-280-B, Case TV-370-B",5,2023,577856,75,Fort Wayne,2.5,Rick Taylor
+Kozaks Jersey Dairy LLC,Alan,Kozak,3306741220.0,Millersburg,OH,DAIRY FARMS,"Kubota, New Holland","New Holland LS-170, New Holland L-328, Kubota SSV-75, New Holland L-320, Kubota SSV-75-HRC",5,2023,299144,75,Brilliant,21.9,Alan Kozak
+Fryman Land Svc LLC,Ronald,Fryman,6184465214.0,Haubstadt,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-35-4-R-3-A, Kubota SVL-97-2-HFC, Kubota SVL-95-2-S, Kubota SVL-75-2",5,2023,262095,75,Evansville,5.2,Ronald Fryman
+Bullock Farms LLC,Jeffrey,Bullock,7405996264.0,Danville,OH,GENERAL FARMS PRIMARILY CROP,New Holland,"New Holland L-228, New Holland C-232, New Holland W-80-C",5,2019,318179,75,Dublin,6.0,Jeffrey Bullock
+Barker Junk Co,Brenda,Fitzwater,3042520769.0,Mabscott,WV,SCRAP AND WASTE MATERIALS,Link-Belt,"Link-Belt 250-X-3, Link-Belt 250-X-4, Link-Belt 350-X-4, Link-Belt 380-X-4",5,2023,2018968,75,South Charleston,55.1,Brenda Fitzwater
+T & D Lndscp & Lawn Care Inc,Tammy,Michaels,3304487928.0,Masury,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-75, Kubota SVL-75-3HFWCC, Kubota SVL-90-2, Kubota KX-057-4, Kubota SVL-97-2",5,2023,386211,75,North Canton,16.7,Tammy Michaels
+IDYL Brook Dairy LLC,Paul,Weber,3304964108.0,Shreve,OH,DAIRY FARMS,"Kubota, New Holland","Kubota SSV-65-HRC, New Holland L-228, New Holland L-328, New Holland L-218, New Holland L-320",5,2023,322953,75,Brilliant,21.9,Paul Weber
+Evans Plbg LLC,Alan,Evans Jr,9378328723.0,Englewood,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-040-4, Kubota KX-018-4, Kubota SVL-75-2",5,2019,340298,75,Monroe,26.3,Alan Evans Jr
+Z Campbell Const LLC,Zachary,Campbell,,Mcconnelsville,OH,LANDSCAPING CONTRACTORS,"Kobelco, New Holland","New Holland LS-180, New Holland LX-865, New Holland C-227, Kobelco SK-35-SR-6-E",5,2019,217399,75,Brunswick,19.5,Zachary Campbell
+Designs by Russo LLC,John,Russo,5132752620.0,Hamilton,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-080-5-R-3A, Kubota SVL-95-2-S, Kubota U-55-5, Kubota SVL-97-2",5,2024,337429,75,Monroe,24.6,John Russo
+Clearcreek Vly LLC,Mark,Holton,7409697205.0,Stoutsville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4-R-3A, Kubota KX-057-4, Kubota SVL-97-3-HCC, Kubota KX-040-4",5,2025,410334,75,North Canton,5.4,Mark Holton
+Rogers Hdwe LLC,William,Rodgers,3049651077.0,Pinch,WV,HARDWARE STORES,"Case, Kubota","Kubota KX-033-4, Case CX-37-C",5,2024,262867,75,South Charleston,7.2,William Rodgers
+Mitchell Trking & Exc LLC,Gary,Mitchell,,Wadesville,IN,TRUCKING (LOCAL AND LONG DISTANCE),"Case, Kubota","Kubota SVL-97-2, Case 590-SUPER-N, Kubota SVL-97-3-HFCC, Kubota SVL-95-2-S, Kubota KX-040-4",5,2025,425163,75,Evansville,5.2,Gary Mitchell
+Elemental Design LLC,Pelletier,Traven,7344266600.0,Dexter,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-90-2, Kubota SVL-75-2, Kubota KX-71-3-S-4, Kubota SVL-95-2-S, Kubota KX-080-4-S",5,2020,345530,75,Novi,24.2,Pelletier Traven
+Faulkenberg Prop Inc,John,Faulkenberg,3179962296.0,Monrovia,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota SVL-97-2, Kubota KX-040-4, Kubota KX-057-5-R3AP, Kubota SVL-95-2-S",5,2023,402459,75,Indianapolis,3.8,John Faulkenberg
+E Flow Svc LLC,Timothy,Wolfe Jr,7408764017.0,Portsmouth,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota U-55-4",5,2022,271894,75,Brilliant,9.4,Timothy Wolfe Jr
+T 3 Prop LLC,Timothy,Font II,,Paulding,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota KX-080-4S2R3A, Kubota SVL-95-2-S, Kubota SSV-65",5,2023,366645,75,Cambridge,22.3,Timothy Font II
+Walkers Outdoor Lndscp LLC,Dusty,Walker,9376928382.0,Arcanum,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-95-2-SHC, Kubota SVL-75-3-HWCC, Kubota SVL-753HFWVCC, Kubota KX-057-5-R-3P, Kubota KX-080-4S2R3A",5,2025,385757,75,Monroe,26.3,Dusty Walker
+Ltd Contr Co,,,,Pickerington,OH,LANDSCAPING CONTRACTORS,New Holland,New Holland C-327,5,2025,336972,75,North Canton,5.4,
+Helebo Trenching Inc,Henry,Boling,3177102735.0,Mooresville,IN,UTILITY CONSTRUCTION,Case,"Case CX-36-B, Case 580-SUPER-N",4,2016,218461,75,Indianapolis,3.8,Henry Boling
+Cavanaugh Bldg Corp,David,Cavanaugh,3307536658.0,Akron,OH,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-040-4-R-3A, Kubota SVL-75-2, Kubota SVL-75-3-HWCC",4,2024,334499,75,North Canton,43.4,David Cavanaugh
+Courtney Ent,Don,Greer,,Perrysville,OH,LANDSCAPING CONTRACTORS,"Case, Kubota, New Holland","Case 621-F, Kubota SVL-90-2, New Holland L-185, New Holland LT-185-B",4,2015,279515,75,Gallipolis,33.5,Don Greer
+Adam Eve Sewer & Drain Svc Inc,Edward,Grymberg,3305399301.0,Girard,OH,WATER SEWER PIPELINE CONSTRUCTION,Kubota,"Kubota KX-0575R3AP50, Kubota SVL-97-3-HFCC, Kubota SVL-75-2-W, Kubota SVL-95-2-S",4,2025,334586,75,North Canton,16.7,Edward Grymberg
+L J Irving Jr & Sons Inc,Lawrence,Irving Jr,4197583428.0,Napoleon,OH,WRECKING & DEMOLITION WORK,Kubota,"Kubota SSV-75, Kubota SVL-75-2, Kubota SVL-75-2-HWC, Kubota SVL-75-3-HWCC",4,2024,287161,75,Dublin,41.7,Lawrence Irving Jr
+Elford Inc,James,Smith,6144884000.0,Columbus,OH,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota SSV-75, Kubota SVL-75-3-HWCC",4,2023,323893,75,Dublin,11.3,James Smith
+Earth & Pipe Contr Inc,Darin,Dodge,9378625280.0,Waynesville,OH,WATER SEWER PIPELINE CONSTRUCTION,Kubota,"Kubota SVL-75-2, Kubota KX-121-3, Kubota SVL-90-2, Kubota SVL-753HFWVCC",4,2025,286947,75,Monroe,24.6,Darin Dodge
+Tim Knisley Farms,Timothy,Knisley,7406262424.0,Bainbridge,OH,CASH GRAINS NEC,Kubota,"Kubota SVL-97-3-HFCC, Kubota SVL-95-2-S, Kubota SVL-97-2",4,2025,330655,75,Brilliant,9.4,Timothy Knisley
+Pistoles Const LLC,Michael,Pistole Jr,,Friendship,OH,WATER SEWER PIPELINE CONSTRUCTION,"Bomag, Kubota","Bomag nan, Kubota SVL-97-2",4,2023,157600,75,Brilliant,9.4,Michael Pistole Jr
+Wills Exc Inc,Jason,Wills,3178234241.0,Indianapolis,IN,EXCAVATION WORK,Case,"Case 580-SUPER-N, Case TR-310",4,2017,266190,75,Indianapolis,3.8,Jason Wills
+Spaetti Farms,Bill,Spaetti,8123594626.0,Richland,IN,GENERAL FARMS PRIMARILY CROP,Case,"Case CX-210-D, Case 1650-M",4,2015,731228,75,Evansville,5.2,Bill Spaetti
+Grays Concrete & Const Ltd,Douglas,Gray,,Hamler,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-121-3, Kubota KX-040-4, Kubota KX-040-4-R-3A",4,2023,184867,75,Dublin,41.7,Douglas Gray
+Cornerstone Lndscp Supply LLC,Gary,Zuga,3306373855.0,Cortland,OH,RETAIL NURSERIES & GARDEN STORES,"Kubota, Link-Belt","Link-Belt 145-X-3, Link-Belt 145-X-4-SA, Kubota SVL-75-3HFWCC, Kubota SVL-75-2",4,2023,576197,75,North Canton,16.7,Gary Zuga
+Zizelman Family Farms LLC,Jeff,Zizelman,4193051240.0,Celina,OH,CASH GRAINS NEC,Kubota,"Kubota SVL-97-3-HFCC, Kubota SVL-97-2, Kubota SVL-95-2-S",4,2025,322580,75,Cambridge,22.3,Jeff Zizelman
+Lyon Const,Michael,Lyon,4198453186.0,Caledonia,OH,RESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota SSV-65, Kubota KX-080-4-S, Kubota KX-040-4, Kubota SVL-97-2-HFCC",4,2023,326533,75,North Canton,5.4,Michael Lyon
+Vendrick Const Inc,Frank,Vendemia,3304484600.0,Brookfield,OH,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-057-4, Kubota SVL-75-2, Kubota SVL-95-2-S",4,2020,233925,75,North Canton,16.7,Frank Vendemia
+Halpin Plbg Inc,Joe,Halpin,5136312001.0,Cincinnati,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SVL-97-2-HCC, Kubota KX-040-4, Kubota KX-080-4, Kubota KX-057-5",4,2024,329128,75,Monroe,24.6,Joe Halpin
+Enviroprobe Integrated Solutions Inc,Roderic,Moore,3047766717.0,Nitro,WV,WATER WELL DRILLING,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota KX-040-5-R-3T, Kubota SVL-95-2-S",4,2025,321334,75,South Charleston,7.2,Roderic Moore
+Solomon Svc LLC,Brian,Solomon,,Mantua,OH,LANDSCAPING CONTRACTORS,"Kubota, New Holland","Kubota KX-057-5, Kubota SVL-65-2, New Holland C-227, Kubota SVL-753HFWVCC",4,2024,326505,75,North Canton,43.4,Brian Solomon
+S O S Plbg LLC,Ryan,Pritt,,New Boston,MI,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota U-35-4, Kubota SVL-75-2, Kubota KX-057-4, Kubota U-35-4-R-3-A",4,2023,293040,75,Novi,24.2,Ryan Pritt
+K & K Const of Weston OH LLC,Timothy,Getz,4196693327.0,Weston,OH,MASONRY & OTHER STONEWORK,Kubota,"Kubota KX-040-4, Kubota KX-080-4-S, Kubota KX-057-5-R-3A, Kubota KX-057-4",4,2023,298645,75,Dublin,41.7,Timothy Getz
+A S W Energy Svc,Andre,Thornton,3307336291.0,Mogadore,OH,UTILITY CONSTRUCTION,Kubota,Kubota U-35-4,4,2018,309161,75,North Canton,43.4,Andre Thornton
+Gibeaut Msnry Const LLC,John,Gibeaut,7402281160.0,Barnesville,OH,MASONRY & OTHER STONEWORK,Kubota,"Kubota KX-057-5-R-3A, Kubota KX-040-4, Kubota K-008, Kubota SVL-75-2",4,2024,295654,75,Brunswick,19.5,John Gibeaut
+Lithko Restor Tech LLC,Ken,Baker,5138635500.0,Monroe,OH,CONCRETE AND ASPHALT WORK,Kubota,Kubota SSV-75,4,2016,216690,75,Monroe,24.6,Ken Baker
+Imperial Waterproofing Inc,Aurello,DiBenedetto,2162763963.0,Cleveland,OH,SANDBLASTING WATERPROOFING CONTR,Kubota,"Kubota U-48-5, Kubota U-35-4-R-3, Kubota U-45, Kubota U-25",4,2024,224098,75,Brunswick,19.5,Aurello DiBenedetto
+Absolute Lndscp LLC,Jamie,McCoy,6144430590.0,Williamsport,OH,LANDSCAPING CONTRACTORS,"Case, New Holland","Case SV-280, New Holland C-327, Case SR-150, New Holland E-37-C",4,2025,214330,75,North Canton,5.4,Jamie McCoy
+Union Iron & Metal LLC,Michael,Simms,2164173500.0,Aurora,OH,WATER SEWER PIPELINE CONSTRUCTION,"Kobelco, Link-Belt","Kobelco SK-140-SRLC-5, Link-Belt 250-X-3, Link-Belt 80-X-3",4,2015,427816,75,North Canton,43.4,Michael Simms
+Biondo Cement Co,Giovanni,Biondo,5865662600.0,Shelby Township,MI,CONCRETE AND ASPHALT WORK,New Holland,"New Holland L-228, New Holland L-234",4,2017,218856,75,Novi,12.2,Giovanni Biondo
+F D R Ent LLC,Frank,Richardson,8123322005.0,Unionville,IN,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota U-55-5, Kubota KX-040-4-R3TP, Kubota K-008-5, Kubota KX-040-4",4,2024,238437,75,Indianapolis,68.6,Frank Richardson
+M J R Mechl Inc,Michael,Duggan,5172233247.0,Fowlerville,MI,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-97-2",4,2021,237021,75,Holt,4.2,Michael Duggan
+Bills Bldrs LLC,,,3046652817.0,Saint Marys,WV,NONRESIDENTIAL CONSTRUCTION NEC,"Kubota, Sany","Kubota KH-191, Sany SY-35-U",4,2023,122212,75,Marietta,62.2,
+Wes Dee Farms LLC,Daniel,Shellabarger,4197954062.0,Mendon,OH,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota SVL-97-2, Kubota SVL-95-2-S, Kubota SSV-65, Kubota SVL-753HFWVCC",4,2024,299688,75,Cambridge,22.3,Daniel Shellabarger
+Sapphire Lndscp LLC,Randy,Najjar,,Bloomfield Hills,MI,LANDSCAPING CONTRACTORS,"Kubota, New Holland","Kubota KX-71-3-S, New Holland C-232, New Holland C-332",4,2022,228123,75,Novi,12.2,Randy Najjar
+E & R Exc & Trking Inc,William,Erbaugh,,Dayton,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota U-55",4,2020,158801,75,Monroe,26.3,William Erbaugh
+GETZ Sewer & Water Repair LLC,Justin,Getz,,Cincinnati,OH,WATER SEWER PIPELINE CONSTRUCTION,Kubota,"Kubota KX-033-4-R-3A, Kubota KX-018-4-R-1, Kubota KX-057-5-R-3A, Kubota KX-040-4",4,2024,274383,75,Monroe,24.6,Justin Getz
+Six Fifty LLC,Ronald,Ummel,,Thorntown,IN,LANDSCAPING CONTRACTORS,Case,"Case TV-450-B, Case 621-G, Case TR-310-B, Case 321-F",4,2024,552820,75,Indianapolis,3.8,Ronald Ummel
+Hacker Plbg & Drilling Inc,Mark,Hacker,8128828053.0,Vincennes,IN,WATER WELL DRILLING,"Case, Kubota","Kubota KX-71-3, Case CX-17-C",3,2023,124495,75,Indianapolis,26.0,Mark Hacker
+Kramer Plbg Inc,William,Kramer,5133531936.0,Cleves,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-080-4-S, Kubota SVL-75-2, Kubota KX-033-4-R-3",3,2025,226928,75,Monroe,24.6,William Kramer
+Oaks Elec Co,Samuel,Oaks,3303257073.0,Rootstown,OH,ELECTRICAL WORK,Kubota,"Kubota U-17, Kubota U-35-4, Kubota SVL-97-2-HFCC",3,2024,194833,75,North Canton,43.4,Samuel Oaks
+Warthman Drilling Inc,Steven,Warthman,7407469950.0,Sugar Grove,OH,WATER WELL DRILLING,Kubota,"Kubota KX-057-5, Kubota KX-040-4, Kubota SVL-753HFWVCC",3,2024,247531,75,North Canton,5.4,Steven Warthman
+Mehringer Plbg Htg & AC Inc,Dennis,Mehringer,8124824425.0,Jasper,IN,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SVL-65-2-W, Kubota SVL-97-2, Kubota KX-033-4",3,2024,218900,75,Indianapolis,26.0,Dennis Mehringer
+Concrete Contr Inc,Robert,Fraley,3178945410.0,Indianapolis,IN,CONCRETE AND ASPHALT WORK,Case,Case TR-310-B,3,2025,170958,75,Indianapolis,3.8,Robert Fraley
+D R S Hickory Hollow Farms LLC,Dan,Shannon,,Homerville,OH,GENERAL FARMS PRIMARILY CROP,New Holland,"New Holland C-337, New Holland C-362, New Holland W-80-C-HS",3,2025,241716,75,North Canton,43.4,Dan Shannon
+C J Hughes Const Co,Cecil,Sheppard,3045223868.0,Huntington,WV,WATER SEWER PIPELINE CONSTRUCTION,JLG,JLG 1255,3,2021,314786,75,Marietta,62.2,Cecil Sheppard
+Sayre Const,Elsie,Sayre,3305628888.0,Mantua,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SVL-75-3HFWCC, Kubota KX-057-4",3,2024,159836,75,North Canton,43.4,Elsie Sayre
+Warner Mechl Corp,Trent,Bloomfield,4193327116.0,Fremont,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SVL-753HFWVCC, Kubota KX-057-5-R3AP, Kubota SSV-65",3,2025,261826,75,North Canton,8.2,Trent Bloomfield
+John Eaton Homes Inc,Johnathan,Eaton,,Markleville,IN,SINGLE FAMILY HOUSING CONSTRUCTION,Case,"Case TR-340, Case CX-80-C",3,2016,262109,75,Indianapolis,3.8,Johnathan Eaton
+Cenky Farms,George,Cenky,7402464290.0,Thornville,OH,CORN,"Case, Kobelco","Case 850-M, Kobelco SK-85-CS",3,2016,234952,75,Dublin,6.0,George Cenky
+Petrie Exc Inc,Wayne,Petrie,6148375037.0,Pickerington,OH,EXCAVATION WORK,New Holland,New Holland B-95-C,3,2019,367650,75,North Canton,5.4,Wayne Petrie
+Ramey Ent Inc,Dwayne,Ramey,3178615221.0,Fountaintown,IN,EXCAVATION WORK,"Case, Kubota","Kubota SVL-95-2-S, Kubota U-55-4, Case TV-380",3,2018,154908,75,Indianapolis,3.8,Dwayne Ramey
+S & S Salv LLC,Tammy,Smith,2706671008.0,Providence,KY,SALVAGE YARDS (AUTOMOBILE ONLY),"Case, Kobelco","Case 1150-M, Kobelco SK-300-LC-10",3,2021,621351,75,Monroe,90.4,Tammy Smith
+D J V LLC,David,Vasu,4409345268.0,Avon,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SVL-95-2-S, Kubota KX-057-4",3,2020,157268,75,Brunswick,19.5,David Vasu
+Glenn Bros Farms LLC,Wayne,Glenn,2702290136.0,Owensboro,KY,TOBACCO,"Case, Kubota","Case 650-K, Kubota SVL-95-2-S, Kubota KX-040-4-R-3T",3,2024,198542,75,Monroe,90.4,Wayne Glenn
+Cromwell Mechl LLC,Robert,Conkey,2163737378.0,Cleveland,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SVL-75-3-HWCC, Kubota U-55-4, Kubota SVL-75-2",3,2025,239029,75,Brunswick,19.5,Robert Conkey
+Horizon Bldrs LLC,Nathan,Schlabach,2704248846.0,Saint Charles,KY,RESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-080-5-R-3A, Kubota SVL-95-2-S",3,2024,285864,75,Monroe,90.4,Nathan Schlabach
+Holmes Blacktop & Concrete Inc,Tom,Holmes,5134513154.0,Cincinnati,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-057-4, Kubota SVL-95-2-S, Kubota KX-080-4",3,2017,237610,75,Monroe,24.6,Tom Holmes
+Butler Remodeling & Const Inc,C,Butler,8592911924.0,Park Hills,KY,RESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota SVL-75-2, Kubota KX-033-4-R-3, Kubota U-35-4",3,2024,204945,75,Monroe,24.6,C Butler
+Artistic DVLP Fiberglass Pools LLC,Joseph,Shaw,2488898483.0,White Lake,MI,SWIMMING POOL INSTALLATION MAINT,Kubota,"Kubota SSV-75-PHC, Kubota SVL-75-2, Kubota U-48-5",3,2024,244951,75,Novi,12.2,Joseph Shaw
+Cleveland Concrete Const Inc,Ronald,Simonetti,2167413954.0,Cleveland,OH,CONCRETE AND ASPHALT WORK,JLG,JLG G-10-55,3,2018,282278,75,Brunswick,19.5,Ronald Simonetti
+Sealed Invst LLC,Cory,Jones,8599190264.0,Walton,KY,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota SVL-95-2-S, Kubota SVL-75, Kubota SVL-75-2",3,2020,201447,75,Monroe,24.6,Cory Jones
+R W ROE Site DVLP Inc,Roger,Roe III,5132480639.0,Milford,OH,EXCAVATION WORK,Kubota,"Kubota KX-080-4, Kubota SVL-95-2-S, Kubota SVL-75-2",3,2016,229977,75,Monroe,24.6,Roger Roe III
+Stauffer Site Svc LLC,Jack,Stauffer,5133980899.0,Mason,OH,EXCAVATION WORK,"Kubota, New Holland","New Holland L-180, Kubota KX-080-4",3,2015,120883,75,Monroe,24.6,Jack Stauffer
+Fisher Contr LLC,Curtis,Rector,3179457928.0,Trafalgar,IN,EXCAVATION WORK,Case,"Case 580-SUPER-N, Case TV-450, Case TR-340",3,2019,279124,75,Indianapolis,3.8,Curtis Rector
+Lacko Poured Walls LLC,Anthony,Lacko,6143085393.0,Columbus,OH,CONCRETE AND ASPHALT WORK,Kubota,Kubota SVL-75-2,3,2019,224740,75,Dublin,11.3,Anthony Lacko
+Schroeder Concrete & Exc LLC,Matt,Schroeder,,Camden,OH,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota U-35-4, Kubota SVL-95-2-S",3,2018,224782,75,Monroe,26.3,Matt Schroeder
+Upscale Lawncare & Prop Maint Inc,Chris,Gum,5133890517.0,Cincinnati,OH,LANDSCAPING CONTRACTORS,"Case, Kubota","Case 221-F, Kubota R-540",3,2022,216278,75,Monroe,24.6,Chris Gum
+Zarley Inc,Tamara,Zarley-Engl,7409653078.0,Sunbury,OH,EXCAVATION WORK,Kubota,"Kubota KX-080-4, Kubota SVL-95-2-S, Kubota SSV-75",3,2017,233990,75,Dublin,6.0,Tamara Zarley-Engl
+M R D Const LLC,Reuben,Delagrange,,Grabill,IN,LANDSCAPING CONTRACTORS,"Kubota, New Holland","New Holland L-318, Kubota SVL-75-3-HWCC, Kubota SVL-75-2",3,2024,241014,75,Fort Wayne,2.5,Reuben Delagrange
+Exc II Inc,Colleen,Walters,,Dexter,MI,EXCAVATION WORK,"Case, Link-Belt","Link-Belt 2700-Q, Case 850-L, Case CX-80-C",3,2017,190727,75,Novi,24.2,Colleen Walters
+OLEG & Sons,Oleg,Stasiouk,3302730851.0,Hinckley,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SSV-75, Kubota SVL-75-2, Kubota U-35-4",3,2019,227918,75,North Canton,43.4,Oleg Stasiouk
+K C Fencing Unlimited LLC,Kyle,Smith,9378460800.0,South Vienna,OH,FENCE CONTRACTORS,"Kubota, New Holland","Kubota SVL-97-2, New Holland C-238, Kubota SVL-95-2-S",3,2023,175546,75,Monroe,26.3,Kyle Smith
+Lotus Concrete LLC,Barkley,Thomson,,Clarkston,MI,CONCRETE AND ASPHALT WORK,New Holland,"New Holland C-332, New Holland LS-180, New Holland L-228",3,2023,188113,75,Novi,12.2,Barkley Thomson
+J R Rntl,Joshua,Reitzel,3175397440.0,Stilesville,IN,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota KX-057-5, Kubota SVL-95-2-S, Kubota SVL-97-2-HC",3,2023,241251,75,Indianapolis,3.8,Joshua Reitzel
+S T S Szuter Treatment Sys Ltd,Jeff,Szuter,,Concord Township,OH,SEPTIC TANK INSTALLATION MAINT,Kubota,"Kubota KX-080-3, Kubota KX-71-3-S-4, Kubota KX-080-4-S",3,2021,202154,75,Brunswick,19.5,Jeff Szuter
+Mack Plbg & Hydronics Inc,Robert,McIlroy Jr,,Cleveland,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-080-4, Kubota SVL-75-2, Kubota SVL-75-3-HWCC",3,2025,248085,75,Brunswick,19.5,Robert McIlroy Jr
+M D Miller Inc,Matthew,Miller,9376202746.0,London,OH,STRUCTURAL STEEL ERECTION,Kubota,"Kubota SSV-75, Kubota SVL-75-2, Kubota SVL-753HFWVCC",3,2023,236552,75,North Canton,5.4,Matthew Miller
+Steel Vly Pavng & Concrete Inc,Brenda,Iamurri,3307994444.0,Austintown,OH,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota KX-080-4-S, Kubota SSV-75, Kubota KX-057-4",3,2019,242149,75,Monroe,24.6,Brenda Iamurri
+Envir Land Mgmt LLC,Daniel,Brotherton,,Lagrange,OH,LANDSCAPING CONTRACTORS,"Case, Kubota","Case CX-160-C, Kubota KX-080-4-S, Kubota SVL-97-2",3,2021,439522,75,Brunswick,19.5,Daniel Brotherton
+Marlboro Concrete LLC,Julia,Coumos,3309172002.0,Alliance,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-95-2-S",3,2017,223286,75,Brilliant,21.9,Julia Coumos
+1 Stop Svc LLC,Monica,Gray,7407631065.0,Saint Louisville,OH,LANDSCAPING CONTRACTORS,"Case, JLG","JLG G-12-55-A, Case TV-370-B, Case CX-57-C",3,2021,227825,75,Dublin,6.0,Monica Gray
+Cavanaugh Elec Co,Edward,Cavanaugh,4407858992.0,Grafton,OH,ELECTRICAL WORK,Kubota,"Kubota SVL-65-2, Kubota KX-033-4",3,2021,133199,75,Brunswick,19.5,Edward Cavanaugh
+Meade Bldg Grp LLC,Glenn,Meade,5132046946.0,Lebanon,OH,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota SVL-65-2-HWC, Kubota SVL-75-2-W, Kubota SVL-75-2",3,2023,234108,75,Monroe,24.6,Glenn Meade
+Cardwell Built Const LLC,John,Cardwell,7654522500.0,Kokomo,IN,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota U-55-4, Kubota SVL-95-2-S, Kubota KX-057-4",3,2017,226343,75,Fort Wayne,2.5,John Cardwell
+T & R Miller UTIL Inc,Teddy,Prince,,Harrodsburg,IN,UTILITY CONSTRUCTION,Case,"Case CX-37-C, Case TR-270-B",3,2024,186566,75,Indianapolis,68.6,Teddy Prince
+Undrgrnd Demo LLC,Charles,Hatfield,5132817777.0,Cleves,OH,WRECKING & DEMOLITION WORK,"Kobelco, Kubota","Kobelco 70-SR, Kubota SVL-75-2",3,2020,130036,75,Monroe,24.6,Charles Hatfield
+Mill R Contr Inc,Scott,Millar,,Ortonville,MI,EXCAVATION WORK,Kubota,"Kubota KX-080-4, Kubota KX-080-4-S, Kubota SVL-95-2-S",3,2018,252622,75,Novi,1.8,Scott Millar
+Cornerstone Concrete & Msnry LLC,Daniel,Barman,4195417604.0,Norwalk,OH,MASONRY & OTHER STONEWORK,Kubota,"Kubota U-48-5-R-3-A, Kubota R-530, Kubota U-35-4",3,2024,250637,75,Gallipolis,33.5,Daniel Barman
+D T Exc LLC,Douglas,Tepe,,Elkhart,IN,EXCAVATION WORK,Kubota,"Kubota U-55-4, Kubota KX-080, Kubota SVL-75-2",3,2019,213841,75,Indianapolis,58.6,Douglas Tepe
+Graystone Earthworks Inc,Lindsay,McKnight,,Noblesville,IN,EXCAVATION WORK,Link-Belt,"Link-Belt 210-X-3, Link-Belt 250-X-4",3,2016,325310,75,Indianapolis,3.8,Lindsay McKnight
+B E S Ent LLC,,,,Kent,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-35-4, Kubota SVL-65-2",3,2020,158801,75,North Canton,43.4,
+Marshall Ground & Snow Works LLC,Tina,Marshall,,Medina,OH,SNOW PLOWING REMOVAL,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2, Kubota KX-057-5",3,2022,238616,75,North Canton,43.4,Tina Marshall
+Pasquale Const & Design Inc,,,4402212242.0,Kirtland,OH,HEAVY CONSTRUCTION NEC,"New Holland, Sany","New Holland C-175, New Holland L-228, Sany SW-305-K",3,2023,80894,75,Brunswick,19.5,
+Pure Blue Pools LLC,,,,Florence,KY,SWIMMING POOL INSTALLATION MAINT,Kubota,"Kubota SVL-65-2, Kubota SVL-753HFWVCC",3,2023,217249,75,Monroe,24.6,
+ROTH Plbg Inc,,,,Holland,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota U-55-5-R-3-AP, Kubota SVL-75-2, Kubota KX-040-4",3,2022,241088,75,Dublin,41.7,
+Cutting Edge Lndscp Design LLC,,,,Waterford,MI,LANDSCAPING CONTRACTORS,"New Holland, Sany","New Holland C-345, New Holland L-220, Sany SY-50-U",3,2023,225134,75,Novi,12.2,
+Blacktop OH,,,,Marysville,OH,HIGHWAY AND STREET CONSTRUCTION,New Holland,New Holland L-328,3,2020,153316,75,Dublin,6.0,
+Patterson Exc LLC,Courtenay,Patterson,,Zionsville,IN,EXCAVATION WORK,Case,"Case 721-G-XR, Case CX-250-D",3,2019,335106,75,Indianapolis,3.8,Courtenay Patterson
+Hagen Well Svc LLC,,,3302647500.0,Wooster,OH,WATER WELL DRILLING,JLG,JLG 1255,3,2023,478597,75,Brilliant,21.9,
+Raze Dig Weld LLC,Richard,Deshon,,East Lansing,MI,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SVL-75-2, Kubota U-55-4",3,2020,158801,75,Holt,4.2,Richard Deshon
+Becks Const Co,Greg,Beck,4195928307.0,Napoleon,OH,RESIDENTIAL CONSTRUCTION NEC,"Case, Kobelco","Kobelco SK-170-LC-10, Case 321-F, Kobelco SK-55-SRX-6-E",3,2016,395843,75,Dublin,41.7,Greg Beck
+Hendricks Cnty Pavng & Sealcoating LLC,Stanley,Orr,3178394920.0,Plainfield,IN,HIGHWAY AND STREET CONSTRUCTION,Kubota,Kubota SVL-97-2-HFCC,3,2023,165948,75,Indianapolis,3.8,Stanley Orr
+ROBB Land Svc LLC,,,,Homeworth,OH,EXCAVATION WORK,Kubota,"Kubota KX-057-5-R-3, Kubota SVL-75-3",3,2023,147449,75,Brilliant,21.9,
+R & R Digging LLC,Benedetto,Rizzo Jr,5867810832.0,Ray,MI,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-033-4, Kubota SVL-75-2, Kubota KX-040-5-R3AP",3,2025,189396,75,Novi,27.3,Benedetto Rizzo Jr
+Well Spring Water Svc LLC,,,,Carmel,IN,WATER WELL DRILLING,Kubota,"Kubota SVL-97-2-HFC, Kubota SVL-97-2",3,2022,211920,75,Indianapolis,3.8,
+P M S Diversified Const Svc LLC,,,,Sterling Heights,MI,HEAVY CONSTRUCTION NEC,Case,Case SV-280-B,3,2023,130195,75,Novi,12.2,
+JDUB Const LLC,Joshua,Whitton,8598244896.0,Corinth,KY,HEAVY CONSTRUCTION NEC,New Holland,"New Holland C-330, New Holland E-37-C",3,2024,108551,75,Monroe,24.6,Joshua Whitton
+Beyond Invst LLC,Chase,Dugan,,Anderson,IN,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-25, Kubota SVL-75-2, Kubota KX-040-4",3,2022,187228,75,Indianapolis,3.8,Chase Dugan
+Mac Grp LLC,Michael,Brown,,Charleston,WV,EXCAVATION WORK,Kubota,"Kubota U-55-5, Kubota KX-033-4",3,2023,152054,75,South Charleston,7.2,Michael Brown
+Peake Contr Inc,Verne,Peake,,Cincinnati,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota KX-040-4-R3AP, Kubota SVL-753HFWVCC",3,2023,168518,75,Monroe,24.6,Verne Peake
+Bill EGLI Concrete Const Inc,,,,Mount Vernon,IN,CONCRETE AND ASPHALT WORK,Case,"Case TV-370-B, Case CX-57-C",3,2024,171887,75,Evansville,5.2,
+Portsmouth Gateway Grp LLC,,,7408206599.0,Minford,OH,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota SVL-753HFWVCC, Kubota KX-040-4-R3TP",3,2024,171887,75,Brilliant,9.4,
+Bobcat of Akron,Dale,Leppo,3306333999.0,Tallmadge,OH,EQUIPMENT SALES,JLG,"JLG G-10-55-A, JLG G-12-55-A, JLG G-6-42-A, JLG G-5-18-A, JLG 1255",408,2019,7809944,70,North Canton,43.4,Dale Leppo
+Barnes Nursery Inc,Robert,Barnes,4194335525.0,Huron,OH,RETAIL NURSERIES & GARDEN STORES,Case,"Case TR-310, Case SV-280",28,2017,512122,70,Gallipolis,33.5,Robert Barnes
+R L Turner Corp,Jim,Gann,3178732712.0,Zionsville,IN,INDUSTRIAL BUILDINGS & WAREHOUSES,JLG,JLG G-6-42-A,15,2015,148596,70,Indianapolis,3.8,Jim Gann
+R P M McHny LLC,Joe,Shimek,,Lebanon,IN,EQUIPMENT SALES,Case,"Case 1650-M, Case 2050-M",15,2015,1233294,70,Indianapolis,3.8,Joe Shimek
+Perf Rntl LLC,David,Meinika,2602444423.0,Columbia City,IN,RENTAL AND LEASING CO,Kubota,"Kubota SVL-75-2, Kubota KX-018-4, Kubota KX-040-4, Kubota SSV-65, Kubota KX-91-3",13,2016,629888,70,Fort Wayne,2.5,David Meinika
+Emmons Farms LLC,Emmons,Neree,4194526764.0,Fayette,OH,DAIRY FARMS,New Holland,"New Holland L-218, New Holland L-220, New Holland L-318, New Holland L-320",12,2021,498204,70,Dublin,41.7,Emmons Neree
+Freije J M A LLC,Richard,Freije,3175392895.0,Clayton,IN,LANDSCAPING CONTRACTORS,"Link-Belt, New Holland","Link-Belt 250-X-4, New Holland LS-120",12,2018,188300,70,Indianapolis,3.8,Richard Freije
+Equipmentshare Dotcom Inc,,,6148269228.0,Grove City,OH,EQUIPMENT SALES,Link-Belt,Link-Belt 145-X-4-DZ,12,2021,214049,70,North Canton,5.4,
+E Z Rntl & Supply LLC,,,,Waterford,MI,HOLDING COMPANIES NEC,Kubota,"Kubota KX-018-4-R-1, Kubota SVL-65-2-HWC, Kubota U-35-4-R-1, Kubota SVL-75-3HFWVC, Kubota U-17-VR-1",10,2025,383873,70,Novi,12.2,
+Heritage Rntl LLC,Dave,Emmons,8128824083.0,Vincennes,IN,RENTAL AND LEASING CO,"Case, Kubota","Case TR-320, Kubota KX-71-3, Kubota KX-040, Kubota KX-161-3, Kubota U-27-4",9,2019,469226,70,Indianapolis,26.0,Dave Emmons
+Cedar Creek Farms Inc,Timothy,Bensman,4196283275.0,Minster,OH,GENERAL LIVESTOCK NEC,New Holland,"New Holland C-238, New Holland C-237, New Holland C-332",8,2022,398563,70,Cambridge,22.3,Timothy Bensman
+R Rasch Inc,Lisa,Yates,7346653223.0,Ann Arbor,MI,RENTAL AND LEASING CO,Kubota,"Kubota SSV-65, Kubota SVL-75-2, Kubota SVL-65-2, Kubota SVL-75-2-W, Kubota SSV-75",7,2019,525498,70,Novi,24.2,Lisa Yates
+Budget Tree Svc Inc,Jewell,Allen II,5867813049.0,Leonard,MI,TREE SERVICES,Kubota,"Kubota KX-080-4, Kubota SVL-95-2-S, Kubota R-420-S, Kubota R-430, Kubota SVL-97-2",7,2024,499464,70,Novi,12.2,Jewell Allen II
+Kraft Nursery Inc,Ted,Elpers,8129635011.0,Evansville,IN,FLOWERS AND FLORISTS' SUPPLIES,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2-HFC, Kubota KX-057-4, Kubota KX-080-4, Kubota KX-057-5-R3AP",7,2025,474321,70,Evansville,5.2,Ted Elpers
+Village Hdwe & Rntl Inc,Kelly,Wells,7404251500.0,Barnesville,OH,HARDWARE STORES,Kubota,"Kubota KX-057-5, Kubota SVL-75-2, Kubota SVL-753HFWVCC, Kubota U-17, Kubota U-35-4-R-1-A",7,2024,424765,70,Brunswick,19.5,Kelly Wells
+J Boeckmann Farms LLC,Jason,Boeckmann,9375849338.0,Hillsboro,OH,CROP PLANTING AND PROTECTING,Kubota,"Kubota U-55-4, Kubota SVL-95-2-S, Kubota SVL-97-3-HFCC, Kubota KX-057-5, Kubota KX-080-4S2R3A",7,2025,463800,70,Monroe,24.6,Jason Boeckmann
+Cleves Tool Rntl & Svc Ctr LLC,Terry,Ochs,5138062992.0,Cleves,OH,RENTAL AND LEASING CO,Kubota,"Kubota KX-057-4, Kubota U-55-4, Kubota KX-080-4, Kubota SVL-65-2, Kubota KX-033-4",7,2022,372493,70,Monroe,24.6,Terry Ochs
+Alltree Tree Care LLC,Scott,Garee,,Waynesfield,OH,TREE SERVICES,"Kubota, New Holland","Kubota SVL-97-2, New Holland L-185, Kubota SSV-65-PHFRC",7,2023,190485,70,Cambridge,22.3,Scott Garee
+M C K Lsg LLC,,,,Brighton,MI,RENTAL AND LEASING CO,Kubota,"Kubota R-430-R-3, Kubota R-540, Kubota R-540-R-43, Kubota SVL-97-2-HFCC, Kubota R-640-R-43",7,2023,429996,70,Novi,24.2,
+His Saving Grains Inc,Christopher,Bihn,4193751013.0,Fort Recovery,OH,LANDSCAPING CONTRACTORS,New Holland,New Holland C-332,7,2023,107104,70,Cambridge,22.3,Christopher Bihn
+M & B C EQT LLC,,,,Barboursville,WV,EQUIPMENT SALES,Kubota,"Kubota KX-080-5-R-3A, Kubota SVL-65-2-HFWC, Kubota SVL-75-3HFWVC",7,2025,395801,70,South Charleston,16.9,
+Fackler Cntry Gardens Inc,George,Fackler,7405223129.0,Granville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-033-4, Kubota U-17, Kubota KX-040-4, Kubota SVL-75-2, Kubota KX-91-3",6,2019,330386,70,Dublin,6.0,George Fackler
+Garner Farm LP,Dale,Garner,5137569565.0,Hamilton,OH,CASH GRAINS NEC,New Holland,"New Holland L-228, New Holland nan",6,2020,66223,70,Monroe,24.6,Dale Garner
+A W Lmbr LLC,Allen,Weaver,4406854620.0,Orwell,OH,LUMBER & OTHER BUILDING MATERIALS,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2-HFCC, Kubota SVL-97-2",6,2024,450069,70,Brunswick,19.5,Allen Weaver
+Porter Trking Inc,Carolyn,Spencer,8128242832.0,Bloomington,IN,LOCAL TRUCKING WITHOUT STORAGE,Kubota,"Kubota U-27-4, Kubota SVL-75-2, Kubota SVL-97-2, Kubota KX-040-4, Kubota KX-057-5",6,2024,457498,70,Indianapolis,68.6,Carolyn Spencer
+D & O Lmbr LLC,Owen,Yoder,3308893490.0,Byesville,OH,LUMBER & OTHER BUILDING MATERIALS,Kubota,"Kubota SVL-97-2, Kubota SVL-95-2-S, Kubota SVL-97-3-HFCC",6,2025,481437,70,Brunswick,19.5,Owen Yoder
+Newby Farms LLC,Edward,Newby,7654367802.0,Thorntown,IN,CROP HARVESTING,Case,"Case TV-380, Case TV-450-B",6,2024,466138,70,Indianapolis,3.8,Edward Newby
+Willow Brook Dairy LLC,Kevin,Spreng,4196515198.0,Shreve,OH,DAIRY FARMS,New Holland,"New Holland L-228, New Holland L-220, New Holland L-318, New Holland L-225, New Holland L-328",6,2024,343204,70,Brilliant,21.9,Kevin Spreng
+Rhoads Lndscp Inc,Brent,Rhoads,7404742028.0,Circleville,OH,LANDSCAPING CONTRACTORS,New Holland,"New Holland L-223, New Holland L-228, New Holland L-218, New Holland C-227",6,2017,272655,70,North Canton,5.4,Brent Rhoads
+CRUM AG Prod Svc LLC,Jay,Crum,9375873997.0,Peebles,OH,CROP PLANTING AND PROTECTING,Kubota,"Kubota SVL-95-2-S, Kubota U-35-4, Kubota KX-057-5, Kubota SVL-97-2",6,2022,315603,70,Brilliant,9.4,Jay Crum
+Midwest Cattle Co,Jill,Kloeppel,9374921396.0,Sidney,OH,BEEF CATTLE EXCEPT FEEDLOTS,New Holland,"New Holland L-328, New Holland C-232, New Holland C-238, New Holland C-332",6,2024,313328,70,Monroe,26.3,Jill Kloeppel
+J B S Lsg Ent LLC,Justin,Boren,,Dublin,OH,RENTAL AND LEASING CO,New Holland,"New Holland L-320, New Holland W-80-C, New Holland L-328",6,2024,234391,70,Dublin,6.0,Justin Boren
+Burn Rite Mold & Mach Inc,Terry,Bristow,3304555541.0,Canton,OH,MACHINE SHOPS,New Holland,"New Holland L-218, New Holland E-37-C, New Holland C-227, New Holland L-320",5,2020,254537,70,Marietta,3.1,Terry Bristow
+R L Wilson Family Farms Inc,Steve,Wilson,8124863197.0,Montgomery,IN,TURKEYS AND TURKEY EGGS,Case,"Case SR-210, Case SR-210-B",5,2023,286128,70,Indianapolis,26.0,Steve Wilson
+Juergens Paint & Hdwe Inc,Daniel,Juergens,2603565214.0,Huntington,IN,HARDWARE STORES,Kubota,"Kubota U-17, Kubota SSV-65, Kubota U-35-4",5,2023,350466,70,Fort Wayne,2.5,Daniel Juergens
+Brookside Const Svc Inc,Joe,Mittler,3307218873.0,Medina,OH,LANDSCAPING CONTRACTORS,Kubota,Kubota SVL-75-2,5,2017,366258,70,North Canton,43.4,Joe Mittler
+R & N Tool Rntl Inc,Richard,Neal,7654812559.0,Lebanon,IN,RENTAL AND LEASING CO,Kubota,"Kubota SVL-75-2, Kubota U-35-4, Kubota nan, Kubota SVL-65-2, Kubota KX-71-3-S-4",5,2021,301008,70,Indianapolis,3.8,Richard Neal
+Park Lsg Grp Ltd,Roger,Loecy,2168616900.0,Cleveland,OH,RENTAL AND LEASING CO,Kubota,"Kubota KX-080-4, Kubota SVL-75-3HFWCC, Kubota SVL-95-2-S, Kubota KX-057-5-R-3",5,2024,345080,70,Brunswick,19.5,Roger Loecy
+All OH Hauling LLC,,,6145657827.0,Plain City,OH,LOCAL TRUCKING WITHOUT STORAGE,New Holland,"New Holland L-180, New Holland L-175, New Holland C-237, New Holland C-327",5,2023,265074,70,Dublin,6.0,
+Nofziger Farms Inc,William,Nofziger,2605622366.0,Shipshewana,IN,CROP PLANTING AND PROTECTING,New Holland,"New Holland LM-5.25, New Holland C-337, New Holland L-328",5,2021,328065,70,Indianapolis,58.6,William Nofziger
+Niese Tire & Svc Ctr LLC,Kyle,Niese,,Ottawa,OH,AUTO & HOME SUPPLY STORES,Kubota,"Kubota R-640-R-43, Kubota KX-057-5, Kubota SSV-75-PHFRC, Kubota SVL-75-2",5,2024,337262,70,Cambridge,22.3,Kyle Niese
+Cntrl Rntl EQT LLC,,,,Danville,IN,EQUIPMENT SALES,Kubota,"Kubota SVL-75-3-HFWC, Kubota SVL-65-2-HWC, Kubota SVL-75-3HFWCC",5,2025,429933,70,Indianapolis,3.8,
+Lewis Lndscp & Nursery Inc,Lewis,Wilson,3306662655.0,Copley,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-75-3-HWCC",4,2024,297098,70,North Canton,43.4,Lewis Wilson
+J Gilmore Design Ltd,James,Gilmore,3306388224.0,Cortland,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota KX-033-4, Kubota R-430",4,2021,212008,70,North Canton,16.7,James Gilmore
+Queen City Mechanicals Inc,Gary,Gilbert,5133531430.0,Cincinnati,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-040-4, Kubota KX-080-4-S, Kubota U-17",4,2019,275620,70,Monroe,24.6,Gary Gilbert
+Joe Simak & Sons Trking Inc,Jon,Simak,4402241992.0,North Kingsville,OH,HEAVY EQUIPMENT HAULING,Kobelco,"Kobelco SK-210-LC-10, Kobelco SK-300-LC-10, Kobelco SK-55-SRX-7",4,2024,1029537,70,Brunswick,19.5,Jon Simak
+K Lsg Co,Ronald,Kirila,3304484055.0,Brookfield,OH,RENTAL AND LEASING CO,"Bomag, Kobelco","Bomag BW-161, Kobelco SK-170-LC, Kobelco nan, Kobelco SK-75-SR",4,2018,781893,70,North Canton,16.7,Ronald Kirila
+Tony Smith Wrecking & Trking,Tony,Smith,9373259646.0,Springfield,OH,TOWING SERVICES,Link-Belt,"Link-Belt 350-X-4, Link-Belt 245-X-4-DZ, Link-Belt 235-X-3",4,2024,1333649,70,Monroe,26.3,Tony Smith
+Foster Supply Inc,Ronald,Foster,3047558241.0,Scott Depot,WV,LUMBER PLYWOOD & MILLWORK,Kobelco,"Kobelco SK-210-LC, Kobelco nan",4,2022,699715,70,South Charleston,16.9,Ronald Foster
+Jana Logistics LLC,Joseph,Geraci,5135831740.0,Maineville,OH,FREIGHT TRANSPORTATION ARRANGEMENT,"Bomag, Kubota","Bomag BW-177-DH-5, Kubota SVL-95-2-S, Kubota KX-080-4",4,2021,293111,70,Monroe,24.6,Joseph Geraci
+K & A Muhlenkamp Farms LLC,David,Muhlenkamp,,Saint Henry,OH,HOGS,"Case, Kubota","Case SR-270, Case SR-220, Kubota SSV-75, Case TR-320",4,2023,209014,70,Cambridge,22.3,David Muhlenkamp
+C W Sneed Co LLC,Wayne,Snead,3178789891.0,Trafalgar,IN,RESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota U-35-4, Kubota SVL-90-2, Kubota SVL-95-2-S, Kubota KX-040-4",4,2019,300858,70,Indianapolis,3.8,Wayne Snead
+Malletts Lawn & Lndscp LLC,Adam,Mallett,7408388544.0,Sarahsville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-753HFWVCC, Kubota SVL-65-2",4,2024,209180,70,Brunswick,19.5,Adam Mallett
+Landmark Prop Svc Inc,Joe,Deserio,3305624605.0,Aurora,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-95-2-S, Kubota KX-040-4, Kubota KX-040-5-R-3T",4,2025,238627,70,North Canton,43.4,Joe Deserio
+G N W Aluminum Inc,Adam,Hoopes,3308217955.0,Alliance,OH,ALUMINUM EXTRUDED PRODUCTS,"JLG, New Holland","New Holland L-228, JLG G-5-18-A, JLG G-9-43-A",4,2020,271748,70,Brilliant,21.9,Adam Hoopes
+Keiths Lawns Inc,Keith,Shaum,5748750661.0,Goshen,IN,LANDSCAPING CONTRACTORS,"Case, Sany","Case CX-75-SR, Sany SY-215-C, Case TR-320, Case TR-340",4,2018,355895,70,Indianapolis,58.6,Keith Shaum
+Small Town Outdoor Svc Inc,Samuel,Wells,7407579803.0,Barnesville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-033-4, Kubota SVL-75-2, Kubota KX-057-5",4,2022,283437,70,Brunswick,19.5,Samuel Wells
+Ready To Rent LLC,Tim,Smith,7402231111.0,Marion,OH,RENTAL AND LEASING CO,"Kubota, New Holland","Kubota U-27-4, Kubota U-27-4-R-1, New Holland L-318, Kubota K-008-3",4,2023,216547,70,North Canton,5.4,Tim Smith
+Boulder Const Inc,Dave,Dannenberg,5138719500.0,Cincinnati,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota KX-080-5-R-3A, Kubota KX-057-4",4,2024,366432,70,Monroe,24.6,Dave Dannenberg
+Calvelage Waterways LLC,Dale,Calvelage,4194533219.0,Fort Jennings,OH,EXCAVATION WORK,Kubota,"Kubota KX-040-4, Kubota KX-121-3, Kubota KX-033-4",4,2018,112872,70,Cambridge,22.3,Dale Calvelage
+Total Grounds Lndscp LLC,Charles,Schebor,5136772273.0,Loveland,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota K-008-5, Kubota KX-040-4, Kubota SVL-753HFWVCC",4,2024,281385,70,Monroe,24.6,Charles Schebor
+Hickory Hill Farms LLC,Matthew,Grothaus,4196369117.0,Bryan,OH,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota U-55-4, Kubota SVL-95-2-S",4,2020,158801,70,Dublin,41.7,Matthew Grothaus
+L Caticchio & Son Inc,Mark,Caticchio,4405238958.0,Chardon,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-753HFWVCC",4,2024,232780,70,Brunswick,19.5,Mark Caticchio
+Chandler Sys Inc,William,Chandler Jr,4192815767.0,Ashland,OH,MACHINE SHOPS,"Case, Kubota","Kubota KX-040-4-R-3A, Kubota SVL-97-2-HCC, Case 580-SUPER-N",4,2024,310789,70,Gallipolis,33.5,William Chandler Jr
+Knapke Livestock LLC,Roger,Knapke,4199424020.0,Coldwater,OH,GENERAL LIVESTOCK NEC,"Case, New Holland","New Holland LM-5.25, Case 1150-M, New Holland L-328, New Holland C-345",4,2024,265865,70,Cambridge,22.3,Roger Knapke
+Envision Pools Const Inc,Brent,Fenstermaker,,Galena,OH,SWIMMING POOL INSTALLATION MAINT,New Holland,"New Holland C-227, New Holland C-237",4,2019,274675,70,Dublin,6.0,Brent Fenstermaker
+Beyond Lndscp Inc,Rustin,Rumfelt,5745277973.0,Milford,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-55-4, Kubota SVL-75-2, Kubota U-17, Kubota KX-080-4-S-2",4,2022,282417,70,Indianapolis,58.6,Rustin Rumfelt
+Lumak EQT Rntl LLC,Truman,Lucas,3049351014.0,Elkview,WV,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-753HFWVCC, Kubota SVL753HFWVRCC, Kubota KX-040-4-R-3A",4,2025,344537,70,South Charleston,7.2,Truman Lucas
+Allstar Contr Inc,James,McClellan,3177393160.0,Franklin,IN,LANDSCAPING CONTRACTORS,Case,"Case TV-370-B, Case CX-57-C, Case TV-450-B",4,2023,248189,70,Indianapolis,3.8,James McClellan
+Roman Brown Ent Inc,Douglas,Brown,,Huntington,IN,TREE SERVICES,"Case, Kubota","Case 221-F, Kubota SVL-75-2, Case CX-75-C",4,2025,355738,70,Fort Wayne,2.5,Douglas Brown
+H & H Livestock & Farms LLC,Chris,Huelskamp,9375854999.0,Sidney,OH,GENERAL LIVESTOCK NEC,"Kubota, New Holland","Kubota SVL-97-2, Kubota SVL-95-2-S, New Holland C-232, New Holland L-223",4,2023,305534,70,Monroe,26.3,Chris Huelskamp
+Handshoes Flea Market LLC,Larry,Handshoe,2608544324.0,Rome City,IN,USED MERCHANDISE STORES,"Kubota, New Holland","Kubota SVL-97-2-HFCC, New Holland L-216, Kubota SVL-65-2, Kubota SSV-65",4,2024,275227,70,Fort Wayne,2.5,Larry Handshoe
+Wilson Lndscp ASSC LLC,Terry,Poulin,6144448873.0,Columbus,OH,LANDSCAPING CONTRACTORS,"Case, New Holland","New Holland C-232, Case 850-M, New Holland D-85-B, New Holland L-228",4,2019,299043,70,Dublin,11.3,Terry Poulin
+A C V E C Corp,Robert,Saks,4407082961.0,Chagrin Falls,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-55-4, Kubota SVL-75-2, Kubota U-17-5",4,2024,261956,70,Brunswick,19.5,Robert Saks
+Vly Contr LLC,Eric,Nolen,9378554472.0,Germantown,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-75-2",4,2020,233247,70,Monroe,26.3,Eric Nolen
+Thornton Const Svc LLC,Evan,Thornton,,South Vienna,OH,LANDSCAPING CONTRACTORS,New Holland,"New Holland C-232, New Holland C-237, New Holland C-337, New Holland E-35-B",4,2020,252820,70,Monroe,26.3,Evan Thornton
+Garland Lawn Care & Prop Maint,Mark,Garland,3175395626.0,Danville,IN,LANDSCAPING CONTRACTORS,Kubota,Kubota SVL-75-2,4,2021,222028,70,Indianapolis,3.8,Mark Garland
+Morris Custom Finishes LLC,Michael,Morris,,Whitesville,KY,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-3, Kubota SVL-75-3HFWVC, Kubota SVL-75-2",4,2024,321033,70,Monroe,90.4,Michael Morris
+Williamsburg Restor Prop LLC,David,Engelhardt,,Williamsburg,OH,LANDSCAPING CONTRACTORS,"Kobelco, Kubota, New Holland","Kobelco SK-160-LC, Kubota SVL-75-2, New Holland LX-665",4,2017,192223,70,Monroe,24.6,David Engelhardt
+M & E Lawn Svc LLC,Michael,Flaherty Jr,,Struthers,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-27-4, Kubota SSV-75, Kubota SVL-65-2, Kubota U-35-4",4,2022,231097,70,North Canton,16.7,Michael Flaherty Jr
+C & N Lawncare & Lndscp LLC,Charles,Leach,8593561520.0,Covington,KY,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-75-2, Kubota SVL-75-2-W",4,2020,281701,70,Monroe,24.6,Charles Leach
+Statement Exc LLC,,,,Cicero,IN,EXCAVATION WORK,Case,"Case CX-55-B, Case CX-80-C, Case CX-60-C",4,2018,197393,70,Indianapolis,3.8,
+K M C Snow & Ice Mgmt Inc,,,6145309299.0,Columbus,OH,SNOW PLOWING REMOVAL,"Bomag, Case","Bomag BW-138-AD, Bomag BW-900, Case SR-270",4,2017,165654,70,Dublin,11.3,
+L L M L LLC,Lewis,Lengacher,,Grabill,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-65, Kubota U-35-4, Kubota SSV-65-HFRC",4,2023,303469,70,Fort Wayne,2.5,Lewis Lengacher
+Integrity Green Lndscp LLC,Thomas,Middleton,5136161509.0,Cincinnati,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-753HFWVCC, Kubota U-55-5, Kubota SVL-75-2, Kubota SVL-97-2",4,2024,332185,70,Monroe,24.6,Thomas Middleton
+Sohan & Sons Waterproofing Co,Sohan,Bilkhu,5138603001.0,West Chester,OH,SANDBLASTING WATERPROOFING CONTR,Kubota,"Kubota KX-018-4, Kubota K-008-3, Kubota SVL-75-2",4,2021,146529,70,Monroe,24.6,Sohan Bilkhu
+Heavy Hwy Const Co,,,,Circleville,OH,HIGHWAY AND STREET CONSTRUCTION,Kubota,"Kubota SVL-95-2-S, Kubota SVL-90-2",4,2017,140429,70,North Canton,5.4,
+Blooms Landcare LLC,Neil,Clapperton,5617918938.0,Chelsea,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-35-4, Kubota R-640, Kubota SVL-65-2, Kubota R-540",4,2021,331403,70,Novi,24.2,Neil Clapperton
+A J Kraig Lndscp & Design Inc,Andrew,Kraig,,Hinckley,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-033-4, Kubota SVL-65-2, Kubota KX-033-4-R-3, Kubota SVL-75-3-HWCC",4,2025,272032,70,North Canton,43.4,Andrew Kraig
+Super CUTZ Lawn Care LLC,Clint,Roberts,8129932028.0,Newburgh,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-97-2, Kubota KX-057-5, Kubota KX-040-4, Kubota SVL-95-2-S",4,2022,317805,70,Evansville,5.2,Clint Roberts
+Buckeye Dough LLC,,,6142216593.0,Columbus,OH,LANDSCAPING CONTRACTORS,New Holland,"New Holland C-332, New Holland E-60-C",4,2022,321595,70,Dublin,11.3,
+Nellis Lawn Svc LLC,,,,Evansville,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-057-5, Kubota SVL-75-2, Kubota KX-040-5-R3AP, Kubota SVL-97-2-HFCC",4,2025,337252,70,Evansville,5.2,
+Midwest Auto Grp LLC,Joseph,Ballinger,7409144707.0,Marion,OH,AUTOMOTIVE DEALERS NEC,"Case, Kubota","Kubota U-55-5-R-3-A, Kubota SSV-65, Case 650-M, Kubota SVL-75-3-HFWC",4,2024,322656,70,North Canton,5.4,Joseph Ballinger
+L J R D Sonoma Prop LLC,Judith,Phillips,9106924694.0,Cincinnati,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-3HFWVC, Kubota SVL-75-3, Kubota U-48-5-R-3-A, Kubota SVL-75-2",4,2025,251525,70,Monroe,24.6,Judith Phillips
+Niese Lawn Care & Lndscp LLC,Kyle,Niese,,Ottawa,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota R-640-R-43, Kubota R-640, Kubota SSV-75-PHFRC",4,2024,265787,70,Cambridge,22.3,Kyle Niese
+R L D Lsg & DVLP LLC,Rocco,Dalicandro,,Pataskala,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-97-2, Kubota SVL-75-3-HWCC, Kubota SVL-75-3-HWC",4,2024,330303,70,Dublin,6.0,Rocco Dalicandro
+Twin Crest Const LLC,Aaron,Adkins,,Tallmadge,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-27-4, Kubota U-55-4, Kubota SVL-75-2",4,2019,144960,70,North Canton,43.4,Aaron Adkins
+Firehouse Const LLC,,,,West Union,OH,WATER SEWER PIPELINE CONSTRUCTION,Kubota,Kubota KX-080,4,2022,142035,70,Brilliant,9.4,
+Equipu LLC,Logan,Turner,,Urbana,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-753HFWVCC, Kubota KX-080-5-R-3A, Kubota U-35-4-R-3-A",4,2025,250100,70,Dublin,6.0,Logan Turner
+Superior Scape Inc,Terry,Newman,5867399630.0,Oxford,MI,LANDSCAPING CONTRACTORS,Kubota,Kubota SVL-75-2,3,2020,225544,70,Novi,12.2,Terry Newman
+H G C Const Co,Mike,Huseman,5138618866.0,Cincinnati,OH,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-080-4-S2R3, Kubota SVL-753HFWVCC",3,2023,181353,70,Monroe,24.6,Mike Huseman
+Connolly Farms,Gerald,Connolly,9377472510.0,North Lewisburg,OH,CROP HARVESTING,"Kubota, New Holland","New Holland L-228, Kubota SVL-95-2-S, Kubota SVL-97-2",3,2022,202537,70,Dublin,6.0,Gerald Connolly
+M T J C Inc,Mark,Tice,3303859022.0,East Liverpool,OH,SINGLE FAMILY HOUSING CONSTRUCTION,New Holland,"New Holland C-227, New Holland E-37-C",3,2017,169404,70,Mansfield,17.9,Mark Tice
+L N J Lndscp & Lawncare Inc,Louis,Dunlavy,7344260846.0,Dexter,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-95-2-S, Kubota SVL-90-2",3,2020,229324,70,Novi,24.2,Louis Dunlavy
+Longs Plbg Htg & Cooling,John,Long,7408523921.0,London,OH,PLUMBING HEATING AIR CONDITIONING,New Holland,"New Holland C-232, New Holland DC-180",3,2016,212550,70,North Canton,5.4,John Long
+McVicker Concrete & Exc Inc,Chad,McVicker,,Swanton,OH,CONCRETE AND ASPHALT WORK,Case,"Case 650-L-WT, Case 650-L, Case TV-370",3,2019,161353,70,Dublin,41.7,Chad McVicker
+Five Seasons Lndscp Mgmt Inc,Sarah,Carbaugh,7409642915.0,Etna,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota SSV-75",3,2022,240856,70,Dublin,6.0,Sarah Carbaugh
+Shipley Farms Partenrship,Stacey,Atherton,7408923770.0,Newark,OH,GENERAL FARMS PRIMARILY CROP,Case,Case SR-210-B,3,2024,138288,70,Dublin,6.0,Stacey Atherton
+Cavallaro Const Co,Teresa,Cavallaro,3306861742.0,Stow,OH,SINGLE FAMILY HOUSING CONSTRUCTION,Kubota,"Kubota KX-080-4, Kubota SVL-90-2",3,2015,159429,70,North Canton,43.4,Teresa Cavallaro
+Midwest LLC,Rich,Primm,,Franklin Furnace,OH,FREIGHT TRANSPORTATION ARRANGEMENT,"Case, JLG, Kubota","Kubota SVL-90-2, Case CX-160-D, JLG G-10-55-A",3,2015,218292,70,Brilliant,9.4,Rich Primm
+S R Davis Lawn & Lndscp Inc,Brian,Davis,5137270035.0,Middletown,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota R-640-R-43, Kubota SVL-75-3-HWCC, Kubota KX-040-4",3,2024,259167,70,Monroe,24.6,Brian Davis
+Patrone Bros Lndscp Inc,Mark,Patrone,3305456779.0,Girard,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-90-2, Kubota U-55-4, Kubota U-27-4",3,2021,202345,70,North Canton,16.7,Mark Patrone
+R Heath Green Const,Randall,Green,2708271637.0,Henderson,KY,RESIDENTIAL CONSTRUCTION NEC,Kubota,"Kubota KX-040-4, Kubota SVL-75-2",3,2020,158801,70,Monroe,90.4,Randall Green
+R M L Decorative Concrete LLC,Richard,Luth,,Utica,MI,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SVL-90-2, Kubota SVL-75-2",3,2015,144458,70,Novi,12.2,Richard Luth
+Smith Cable Sys Inc,Ronald,Smith,,Barnesville,OH,UTILITY CONSTRUCTION,Kubota,"Kubota KX-040-4, Kubota KX-71-3-S-4, Kubota K-008-3",3,2019,138526,70,Brunswick,19.5,Ronald Smith
+Schwartz Barn Restor,John,Schwartz,2603016180.0,Geneva,IN,LANDSCAPING CONTRACTORS,"JLG, Kubota","Kubota SVL-75-2, Kubota SVL-95-2-S, JLG G-5-18-A",3,2020,179266,70,Fort Wayne,2.5,John Schwartz
+Reiscon LLC,Scott,Reiser,7408585639.0,West Portsmouth,OH,EXCAVATION WORK,Kubota,"Kubota SVL-95-2-S, Kubota U-55-4",3,2019,155688,70,Brilliant,9.4,Scott Reiser
+Mulchworx LLC,Eric,Holsworth,2604909838.0,Fort Wayne,IN,RETAIL NURSERIES & GARDEN STORES,"Kubota, Link-Belt","Link-Belt 225, Kubota R-640",3,2021,364703,70,Fort Wayne,73.8,Eric Holsworth
+Amer UTIL Corp Inc,Robert,Stannard,8123723259.0,Columbus,IN,UTILITY CONSTRUCTION,Case,Case CX-37-C,3,2018,154964,70,Indianapolis,41.6,Robert Stannard
+Integrity Mfr Homes Set Up Inc,Ronnie,Frost,5748481752.0,Bristol,IN,SPECIAL TRADE CONTRACTORS NEC,Kubota,"Kubota SVL-75-2, Kubota KX-057-4, Kubota SVL-90-2",3,2017,221879,70,Indianapolis,58.6,Ronnie Frost
+H L M Inc,Timothy,Holden,2486468641.0,Bloomfield Hills,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota R-630, Kubota KX-040-4, Kubota KX-030-4-R-1",3,2023,219826,70,Novi,12.2,Timothy Holden
+P A B Const Co,Roger,Hess,,Coldwater,OH,EXCAVATION WORK,New Holland,"New Holland L-220, New Holland C-232",3,2018,136554,70,Cambridge,22.3,Roger Hess
+Moscarino Outdoor Creations Inc,Charles,Moscarino,4402369000.0,Columbia Station,OH,LANDSCAPING CONTRACTORS,Kubota,Kubota SVL-65-2,3,2022,242449,70,Brunswick,19.5,Charles Moscarino
+J & H Lawncare & Snowplowing LLC,Charles,Johnson,4192898042.0,Ashland,OH,LANDSCAPING CONTRACTORS,"Case, New Holland","New Holland L-225, New Holland C-332, Case 621",3,2020,163613,70,Gallipolis,33.5,Charles Johnson
+Herman Rossi & Sons Inc,Paul,Rossi,3306528438.0,Niles,OH,CONCRETE AND ASPHALT WORK,Kubota,"Kubota SSV-75, Kubota KX-080-4",3,2016,159580,70,North Canton,16.7,Paul Rossi
+Hartman Lands,Beau,Hartman,7408493075.0,Zanesville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota R-640, Kubota KX-040-4",3,2023,255619,70,Brunswick,19.5,Beau Hartman
+Kraus Exc & Contr Inc,Ronald,Kraus,,Cleves,OH,EXCAVATION WORK,Kubota,"Kubota SVL-75-2, Kubota SVL-90-2, Kubota KX-080-3",3,2015,176682,70,Monroe,24.6,Ronald Kraus
+Renaissance Mgmt Svc Inc,William,Stauffer Jr,2602443053.0,Columbia City,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-97-2, Kubota KX-057-4, Kubota SSV-75",3,2022,237037,70,Fort Wayne,2.5,William Stauffer Jr
+Lawn Lad Inc,Doug,Freer,4404487032.0,Gates Mills,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-75, Kubota KX-040-4, Kubota SVL-75-2",3,2022,237445,70,Brunswick,19.5,Doug Freer
+ORTH Land Mgmt LLC,Tara,Orth,8596357881.0,Alexandria,KY,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-5-R-3A, Kubota SVL-75-3HFWVC",3,2024,161290,70,Monroe,24.6,Tara Orth
+Bull Const Svc LLC,Barbara,Carlton,4402356427.0,North Olmsted,OH,LANDSCAPING CONTRACTORS,"Kubota, New Holland","Kubota R-530, Kubota U-35-4-R-1, New Holland E-17-C",3,2023,173203,70,Brunswick,19.5,Barbara Carlton
+Montooth Undrgrnd UTIL LLC,James,Montooth,4196803610.0,Fremont,OH,UTILITY CONSTRUCTION,Kubota,"Kubota SSV-75, Kubota KX-040-4",3,2016,148185,70,North Canton,8.2,James Montooth
+Heavy Trans Inc,Dan,Liotti,3175451335.0,Greenfield,IN,HEAVY EQUIPMENT HAULING,Link-Belt,"Link-Belt 350-X-4, Link-Belt 355-X-4-S",3,2024,863706,70,Indianapolis,3.8,Dan Liotti
+Cowboy Rocks,Philip,Votruba,4409654120.0,Wakeman,OH,CRUSHED AND BROKEN STONE NEC,"Kobelco, New Holland","Kobelco SK-35-SR-6-E, New Holland C-232",3,2021,74682,70,Gallipolis,33.5,Philip Votruba
+Desert Sand Inc,Robert,Klochko,3133867200.0,Melvindale,MI,CONSTRUCTION SAND AND GRAVEL,Kubota,Kubota SVL-75-3-HWCC,3,2023,165948,70,Novi,24.2,Robert Klochko
+Quality Outdoor Svc LLC,Shawn,Nester,,Howell,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-75, Kubota KX-040-4",3,2021,200488,70,Holt,4.2,Shawn Nester
+B R Willis Ent Inc,Brandon,Willis,8126376600.0,North Bend,OH,LOCAL TRUCKING WITHOUT STORAGE,"Kobelco, Kubota, Sany","Kobelco SK-250-LC, Kubota R-630, Sany SY-365-C",3,2019,488705,70,Monroe,24.6,Brandon Willis
+Creative Lndscp by Design Inc,Ron,McGarry,3307821904.0,Youngstown,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-75, Kubota U-35-4, Kubota SVL-75-2",3,2021,238555,70,Monroe,24.6,Ron McGarry
+Northern Impressions Inc,David,Cracchiolo,2486492588.0,Troy,MI,LANDSCAPING CONTRACTORS,New Holland,"New Holland C-232, New Holland L-228, New Holland C-332",3,2022,227244,70,Novi,27.3,David Cracchiolo
+RAPP Concrete Inc,Jeff,Rapp,5867527102.0,Washington,MI,CONCRETE AND ASPHALT WORK,New Holland,New Holland C-232,3,2019,123612,70,Novi,27.3,Jeff Rapp
+Finnie Plbg LLC,Kendall,Shumate,6812073140.0,Daniels,WV,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota KX-040-4, Kubota SVL-75-3",3,2023,168518,70,South Charleston,55.1,Kendall Shumate
+Great Lakes Aerial Maint Const,Jason,Miller,,Saline,MI,POWERLINE CONSTR MAINTENANCE,Kubota,"Kubota KX-040-4, Kubota SVL-75-2",3,2020,158801,70,Novi,24.2,Jason Miller
+C & S Lawn Svc & Lndscp Inc,Kerry,Cline,2342484152.0,Wadsworth,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-033-4, Kubota SVL-75-2, Kubota SVL-75-3-HWCC",3,2024,211156,70,North Canton,43.4,Kerry Cline
+Rocscape Lndscp LLC,Rocco,Laurie,2164094040.0,Chesterland,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota U-35-4, Kubota R-640-R-43",3,2023,249532,70,Brunswick,19.5,Rocco Laurie
+Blevins Sod Farms LLC,Richard,Blevins,9374020132.0,Lynchburg,OH,ORNAMENTAL NURSERY PRODUCTS,Kubota,"Kubota SVL-75-2, Kubota SSV-65",3,2019,221831,70,Monroe,24.6,Richard Blevins
+M V Lndscp LLC,Juan,Vargas,5866774937.0,Macomb,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2-HFWC, Kubota SVL-75-2, Kubota SVL-65-2",3,2024,241043,70,Novi,27.3,Juan Vargas
+Moretta Lawn & Landcare Inc,Benjamin,Moretta,3304956089.0,Canton,OH,LANDSCAPING CONTRACTORS,New Holland,"New Holland L-228, New Holland E-37-C, New Holland ML-12-T",3,2024,205962,70,Marietta,3.1,Benjamin Moretta
+Success Tech Inc,,,,Powell,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-95-2-S, Kubota SVL-97-2-HFCC, Kubota SVL-75-2",3,2024,237977,70,Dublin,6.0,
+Smallwood Septic Solutions Inc,Michael,Smallwood,,Hamilton,OH,SEPTIC TANK INSTALLATION MAINT,Kubota,"Kubota KX-040-4, Kubota KX-057-4, Kubota SVL-75-2",3,2016,222627,70,Monroe,24.6,Michael Smallwood
+N W Svc LLC,Blake,Raab,,Liberty Center,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-97-2, Kubota R-540, Kubota SVL-97-3-HFCC",3,2025,251436,70,Dublin,41.7,Blake Raab
+T & T Demo & Recycling LLC,Anthony,Caywood,3304053126.0,Twinsburg,OH,WRECKING & DEMOLITION WORK,Kobelco,"Kobelco SK-210-LC-9, Kobelco SK-210-LC",3,2015,373529,70,Brunswick,19.5,Anthony Caywood
+McFarlands Lawn Care,Michael,McFarland,3302190971.0,Warren,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-753HFWVCC, Kubota SSV-75, Kubota U-35-4-R-3-A",3,2025,222795,70,North Canton,16.7,Michael McFarland
+Dekes Const Inc,Eric,Avery,,Clarkston,MI,HEAVY CONSTRUCTION NEC,New Holland,"New Holland C-227, New Holland L-228",3,2017,191768,70,Novi,12.2,Eric Avery
+Clink Lndscp & Nursery Inc,,,,Saline,MI,LANDSCAPING CONTRACTORS,Case,"Case 321-F, Case TV-380",3,2020,233779,70,Novi,24.2,
+Stephens Land Maint LLC,Stephen,Crane,2486501133.0,Rochester,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota SVL-753HFWVCC, Kubota SSV-75",3,2024,205078,70,Novi,12.2,Stephen Crane
+Earth Co Const Svc LLC,Todd,Hasse,,Saline,MI,HEAVY CONSTRUCTION NEC,Kubota,"Kubota SSV-75, Kubota KX-057-4",3,2017,148907,70,Novi,24.2,Todd Hasse
+Hytec Svc LLC,John,Coblentz,,Apple Creek,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-2, Kubota SVL-65-2-HWC",3,2024,236444,70,Brilliant,21.9,John Coblentz
+Victory Exc & Demo LLC,Brandon,Conkel,,Stoutsville,OH,EXCAVATION WORK,New Holland,"New Holland E-37-C, New Holland C-232",3,2019,128029,70,North Canton,5.4,Brandon Conkel
+M M C I Inc,Jon,Arbuckle,,Indianapolis,IN,PLUMBING HEATING AIR CONDITIONING,Case,"Case CX-37-C, Case TR-270-B",3,2023,168518,70,Indianapolis,3.8,Jon Arbuckle
+Hastings Farm Svc LLC,David,Hastings,9896763582.0,Mason,MI,GENERAL FARMS PRIMARILY CROP,New Holland,"New Holland E-33-C, New Holland E-37-C, New Holland W-80-C",3,2024,183530,70,Holt,4.2,David Hastings
+Mattson Begley Co,Douglas,Mattson,,Ortonville,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-3-HW, Kubota KX-040-4, Kubota SVL-75-2",3,2024,239654,70,Novi,1.8,Douglas Mattson
+Alliance Drain & Plbg LLC,Jeffrey,Middaugh,3308237942.0,Alliance,OH,PLUMBING HEATING AIR CONDITIONING,Kubota,"Kubota SVL-65-2-HWC, Kubota U-17, Kubota U-35-4",3,2024,155150,70,Brilliant,21.9,Jeffrey Middaugh
+J T EQT Rntl LLC,Jac,Neville,,Millersburg,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SSV-75-PHRC, Kubota SVL-75-3-HWCC, Kubota SVL-75-3HFWCC",3,2024,250582,70,Brilliant,21.9,Jac Neville
+Prestige Exc & Demo Co,Michael,Collins,4195664575.0,Republic,OH,WRECKING & DEMOLITION WORK,Kubota,"Kubota SVL-95-2-S, Kubota KX-080-4, Kubota SVL-97-3-HFCC",3,2025,167545,70,Gallipolis,33.5,Michael Collins
+Rhoads Farm Inc,Kathleen,Rhoads,7404742028.0,Circleville,OH,GENERAL FARMS PRIMARILY CROP,New Holland,"New Holland L-228, New Holland C-227",3,2019,222569,70,North Canton,5.4,Kathleen Rhoads
+S & A Const LLC,,,4408620687.0,Painesville,OH,HEAVY CONSTRUCTION NEC,Kubota,"Kubota U-27-4, Kubota SVL-65-2, Kubota U-25",3,2019,177401,70,Brunswick,19.5,
+Boyle Const Mgmt Inc,,,3172690543.0,Indianapolis,IN,RESIDENTIAL CONSTRUCTION NEC,Kubota,Kubota SVL-75-2,3,2020,156380,70,Indianapolis,3.8,
+Legacy Lndscp II LLC,Russell,Sheridan,,Ray,MI,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2-W, Kubota U-17, Kubota U-55-5",3,2021,206994,70,Novi,27.3,Russell Sheridan
+Portsmouth Hydroseeding LLC,Phillip,Lajoye,,Mc Dermott,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-040-4, Kubota SVL-97-2, Kubota KX-040-5-R-3T",3,2025,250958,70,Brilliant,9.4,Phillip Lajoye
+Wiley Works LLC,Wiley,Jordan,,Kingsville,OH,GENERAL FARMS PRIMARILY CROP,Kubota,"Kubota U-25, Kubota SVL-753HFWVCC, Kubota U-35-4-R-3-A",3,2025,168337,70,Brunswick,19.5,Wiley Jordan
+Project Const Co,,,7409281105.0,Hebron,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-057-5, Kubota SVL-75-3-HWCC, Kubota SVL-75-2",3,2024,246690,70,Dublin,6.0,
+Pillar Energy LLC,Jeffry,Isner,3047822150.0,Charleston,WV,OIL AND GAS FIELD SERVICES NEC,Sany,Sany SY-35-U,3,2025,115700,70,South Charleston,7.2,Jeffry Isner
+Easley & ASSC LLC,Richard,Easley,,Indianapolis,IN,HEAVY CONSTRUCTION NEC,Case,"Case TR-310, Case 580-SUPER-M",3,2017,190221,70,Indianapolis,3.8,Richard Easley
+J M L Lndscp DVLP LLC,Jeremy,Luck,,Croton,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota KX-040-4-R-3T, Kubota SVL-75-3-HWCC",3,2023,245175,70,Dublin,6.0,Jeremy Luck
+Dehlco Const Svc LLC,,,,Gahanna,OH,LANDSCAPING CONTRACTORS,"Kobelco, New Holland","New Holland C-327, Kobelco SK-45-SRX-7, New Holland C-314",3,2024,197744,70,Dublin,11.3,
+Yellowbanks Lawn & Lndscp LLC,Larry,Roberts II,2708522361.0,Owensboro,KY,LANDSCAPING CONTRACTORS,Kubota,"Kubota KX-057-5, Kubota SVL-75-2, Kubota KX-080-4-S",3,2022,200240,70,Monroe,90.4,Larry Roberts II
+Majestic Bldg & DVLP LLC,,,,Indianapolis,IN,NONRESIDENTIAL CONSTRUCTION NEC,Case,"Case CX-330, Case TV-450, Case 850-M",3,2018,373068,70,Indianapolis,3.8,
+Lance Inds Inc,Lance,Alspaugh,,Newark,OH,HEAVY CONSTRUCTION NEC,Kobelco,Kobelco SK-35-SR-6-E,3,2022,52000,70,Dublin,6.0,Lance Alspaugh
+Falls Creek Exc LLC,,,,Millersburg,OH,EXCAVATION WORK,Kubota,"Kubota SVL-90-2, Kubota SVL-97-3-HFCC",3,2025,92069,70,Brilliant,21.9,
+Ontrac Inc,,,,Huntingburg,IN,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota SVL-75-2",3,2023,245670,70,Indianapolis,26.0,
+Marion Ent LLC,,,,Charleston,WV,LANDSCAPING CONTRACTORS,"Case, Kubota","Kubota KX-033-4, Case TV-370",3,2021,101336,70,South Charleston,7.2,
+Pine Vly Outdoors LLC,Marion,Yoder,3308978113.0,Baltic,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota SVL-75-2, Kubota SVL-97-2-HFCC",3,2024,245734,70,Brunswick,17.9,Marion Yoder
+Estate Custom Bldrs LLC,,,,Columbus,OH,NONRESIDENTIAL CONSTRUCTION NEC,Kubota,Kubota SVL-95-2-S,3,2021,127178,70,Dublin,11.3,
+Ron KLEI & Sons Inc,,,5133857709.0,Miamitown,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota KX-057-5-R3AP, Kubota KX-040-4",3,2023,263594,70,Monroe,24.6,
+J G H F 1 LLC,Linda,Hondros,,Westerville,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-97-2, Kubota SVL-97-3-HCC, Kubota SVL-97-2-HFC",3,2025,250647,70,Dublin,6.0,Linda Hondros
+Turnkey Design & Build LLC,Jordan,Vanwye,,Indianapolis,IN,NONRESIDENTIAL CONSTRUCTION NEC,Case,"Case CX-57-C, Case TV-370-B",3,2023,166841,70,Indianapolis,3.8,Jordan Vanwye
+Jimison Const LLC,Trevor,Jimison,,Mount Orab,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-65-2, Kubota SVL-753HFWVCC, Kubota KX-040-5-R-3A",3,2025,258298,70,Monroe,24.6,Trevor Jimison
+Schneller Plbg Htg & Air Co,,,5137533100.0,Cincinnati,OH,PLUMBING HEATING AIR CONDITIONING,Sany,"Sany SY-16-C, Sany SY-50-U",3,2023,122609,70,Monroe,24.6,
+Square One Prop Solutions LLC,Kenneth,Levert Sr,2167915600.0,Cleveland,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota U-27-4-R-2, Kubota SVL-75-3HFWCC, Kubota U-55-5-R-3-A",3,2024,225234,70,Brunswick,19.5,Kenneth Levert Sr
+J L Const LLC,Levi,Petersheim,3303679242.0,Middlefield,OH,LANDSCAPING CONTRACTORS,Kubota,"Kubota SVL-75-3-HWCC, Kubota KX-040-4-R-3, Kubota SVL-75-3",3,2024,256520,70,Brunswick,19.5,Levi Petersheim
